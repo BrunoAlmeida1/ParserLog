@@ -1,0 +1,765 @@
+[
+  {
+    "Game": 1,
+    "Status": {
+      "totalKills": 0,
+      "Players": [
+        {
+          "Name": "Isgalamido",
+          "Kills": 0,
+          "OldNames": []
+        }
+      ]
+    }
+  },
+  {
+    "Game": 2,
+    "Status": {
+      "totalKills": 11,
+      "Players": [
+        {
+          "Name": "Isgalamido",
+          "Kills": 3,
+          "OldNames": []
+        },
+        {
+          "Name": "Mocinha",
+          "Kills": 0,
+          "OldNames": [
+            "Dono da Bola"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Game": 3,
+    "Status": {
+      "totalKills": 4,
+      "Players": [
+        {
+          "Name": "Dono da Bola",
+          "Kills": 0,
+          "OldNames": [
+            "Dono da Bola",
+            "Mocinha"
+          ]
+        },
+        {
+          "Name": "Isgalamido",
+          "Kills": 1,
+          "OldNames": []
+        },
+        {
+          "Name": "Zeh",
+          "Kills": 0,
+          "OldNames": []
+        }
+      ]
+    }
+  },
+  {
+    "Game": 4,
+    "Status": {
+      "totalKills": 105,
+      "Players": [
+        {
+          "Name": "Dono da Bola",
+          "Kills": 20,
+          "OldNames": []
+        },
+        {
+          "Name": "Isgalamido",
+          "Kills": 27,
+          "OldNames": []
+        },
+        {
+          "Name": "Zeh",
+          "Kills": 22,
+          "OldNames": []
+        },
+        {
+          "Name": "Assasinu Credi",
+          "Kills": 16,
+          "OldNames": []
+        }
+      ]
+    }
+  },
+  {
+    "Game": 5,
+    "Status": {
+      "totalKills": 14,
+      "Players": [
+        {
+          "Name": "Isgalamido",
+          "Kills": 2,
+          "OldNames": []
+        },
+        {
+          "Name": "Dono da Bola",
+          "Kills": 0,
+          "OldNames": []
+        },
+        {
+          "Name": "Zeh",
+          "Kills": 2,
+          "OldNames": []
+        },
+        {
+          "Name": "Assasinu Credi",
+          "Kills": 5,
+          "OldNames": []
+        }
+      ]
+    }
+  },
+  {
+    "Game": 6,
+    "Status": {
+      "totalKills": 29,
+      "Players": [
+        {
+          "Name": "Oootsimo",
+          "Kills": 9,
+          "OldNames": [
+            "Fasano Again"
+          ]
+        },
+        {
+          "Name": "Isgalamido",
+          "Kills": 4,
+          "OldNames": []
+        },
+        {
+          "Name": "Zeh",
+          "Kills": 8,
+          "OldNames": []
+        },
+        {
+          "Name": "Dono da Bola",
+          "Kills": 2,
+          "OldNames": []
+        },
+        {
+          "Name": "Mal",
+          "Kills": 1,
+          "OldNames": [
+            "UnnamedPlayer",
+            "Maluquinho"
+          ]
+        },
+        {
+          "Name": "Assasinu Credi",
+          "Kills": 1,
+          "OldNames": []
+        }
+      ]
+    }
+  },
+  {
+    "Game": 7,
+    "Status": {
+      "totalKills": 130,
+      "Players": [
+        {
+          "Name": "Oootsimo",
+          "Kills": 24,
+          "OldNames": []
+        },
+        {
+          "Name": "Isgalamido",
+          "Kills": 20,
+          "OldNames": []
+        },
+        {
+          "Name": "Zeh",
+          "Kills": 14,
+          "OldNames": []
+        },
+        {
+          "Name": "Dono da Bola",
+          "Kills": 14,
+          "OldNames": []
+        },
+        {
+          "Name": "Mal",
+          "Kills": 9,
+          "OldNames": []
+        },
+        {
+          "Name": "Assasinu Credi",
+          "Kills": 22,
+          "OldNames": []
+        },
+        {
+          "Name": "Chessus",
+          "Kills": 0,
+          "OldNames": [
+            "Chessus!"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Game": 8,
+    "Status": {
+      "totalKills": 89,
+      "Players": [
+        {
+          "Name": "Oootsimo",
+          "Kills": 17,
+          "OldNames": []
+        },
+        {
+          "Name": "Isgalamido",
+          "Kills": 24,
+          "OldNames": []
+        },
+        {
+          "Name": "Zeh",
+          "Kills": 15,
+          "OldNames": []
+        },
+        {
+          "Name": "Dono da Bola",
+          "Kills": 5,
+          "OldNames": []
+        },
+        {
+          "Name": "Mal",
+          "Kills": 1,
+          "OldNames": []
+        },
+        {
+          "Name": "Assasinu Credi",
+          "Kills": 12,
+          "OldNames": []
+        }
+      ]
+    }
+  },
+  {
+    "Game": 9,
+    "Status": {
+      "totalKills": 67,
+      "Players": [
+        {
+          "Name": "Oootsimo",
+          "Kills": 9,
+          "OldNames": []
+        },
+        {
+          "Name": "Zeh",
+          "Kills": 15,
+          "OldNames": []
+        },
+        {
+          "Name": "Chessus",
+          "Kills": 9,
+          "OldNames": [
+            "Chessus!"
+          ]
+        },
+        {
+          "Name": "Mal",
+          "Kills": 7,
+          "OldNames": []
+        },
+        {
+          "Name": "Assasinu Credi",
+          "Kills": 11,
+          "OldNames": []
+        },
+        {
+          "Name": "Isgalamido",
+          "Kills": 2,
+          "OldNames": []
+        },
+        {
+          "Name": "Dono da Bola",
+          "Kills": 3,
+          "OldNames": []
+        }
+      ]
+    }
+  },
+  {
+    "Game": 10,
+    "Status": {
+      "totalKills": 60,
+      "Players": [
+        {
+          "Name": "Dono da Bola",
+          "Kills": 5,
+          "OldNames": []
+        },
+        {
+          "Name": "Oootsimo",
+          "Kills": 1,
+          "OldNames": []
+        },
+        {
+          "Name": "Chessus",
+          "Kills": 6,
+          "OldNames": []
+        },
+        {
+          "Name": "Isgalamido",
+          "Kills": 10,
+          "OldNames": []
+        },
+        {
+          "Name": "Zeh",
+          "Kills": 9,
+          "OldNames": []
+        },
+        {
+          "Name": "Assasinu Credi",
+          "Kills": 5,
+          "OldNames": []
+        },
+        {
+          "Name": "Mal",
+          "Kills": 6,
+          "OldNames": []
+        }
+      ]
+    }
+  },
+  {
+    "Game": 11,
+    "Status": {
+      "totalKills": 20,
+      "Players": [
+        {
+          "Name": "Dono da Bola",
+          "Kills": 1,
+          "OldNames": []
+        },
+        {
+          "Name": "Isgalamido",
+          "Kills": 7,
+          "OldNames": []
+        },
+        {
+          "Name": "Zeh",
+          "Kills": 0,
+          "OldNames": []
+        },
+        {
+          "Name": "Oootsimo",
+          "Kills": 4,
+          "OldNames": []
+        },
+        {
+          "Name": "Chessus",
+          "Kills": 0,
+          "OldNames": []
+        },
+        {
+          "Name": "Assasinu Credi",
+          "Kills": 0,
+          "OldNames": []
+        },
+        {
+          "Name": "Mal",
+          "Kills": 0,
+          "OldNames": [
+            "UnnamedPlayer"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Game": 12,
+    "Status": {
+      "totalKills": 160,
+      "Players": [
+        {
+          "Name": "Isgalamido",
+          "Kills": 26,
+          "OldNames": []
+        },
+        {
+          "Name": "Dono da Bola",
+          "Kills": 11,
+          "OldNames": []
+        },
+        {
+          "Name": "Zeh",
+          "Kills": 14,
+          "OldNames": []
+        },
+        {
+          "Name": "Oootsimo",
+          "Kills": 22,
+          "OldNames": []
+        },
+        {
+          "Name": "Chessus",
+          "Kills": 17,
+          "OldNames": []
+        },
+        {
+          "Name": "Assasinu Credi",
+          "Kills": 23,
+          "OldNames": []
+        },
+        {
+          "Name": "Mal",
+          "Kills": 8,
+          "OldNames": []
+        }
+      ]
+    }
+  },
+  {
+    "Game": 13,
+    "Status": {
+      "totalKills": 6,
+      "Players": [
+        {
+          "Name": "Isgalamido",
+          "Kills": 0,
+          "OldNames": []
+        },
+        {
+          "Name": "Dono da Bola",
+          "Kills": 0,
+          "OldNames": []
+        },
+        {
+          "Name": "Zeh",
+          "Kills": 2,
+          "OldNames": []
+        },
+        {
+          "Name": "Oootsimo",
+          "Kills": 2,
+          "OldNames": []
+        },
+        {
+          "Name": "Chessus",
+          "Kills": 0,
+          "OldNames": []
+        },
+        {
+          "Name": "Assasinu Credi",
+          "Kills": 0,
+          "OldNames": []
+        },
+        {
+          "Name": "Mal",
+          "Kills": 0,
+          "OldNames": []
+        }
+      ]
+    }
+  },
+  {
+    "Game": 14,
+    "Status": {
+      "totalKills": 122,
+      "Players": [
+        {
+          "Name": "Zeh",
+          "Kills": 12,
+          "OldNames": []
+        },
+        {
+          "Name": "Assasinu Credi",
+          "Kills": 12,
+          "OldNames": []
+        },
+        {
+          "Name": "Isgalamido",
+          "Kills": 25,
+          "OldNames": []
+        },
+        {
+          "Name": "Dono da Bola",
+          "Kills": 9,
+          "OldNames": []
+        },
+        {
+          "Name": "Mal",
+          "Kills": 6,
+          "OldNames": []
+        },
+        {
+          "Name": "Chessus",
+          "Kills": 10,
+          "OldNames": []
+        },
+        {
+          "Name": "Oootsimo",
+          "Kills": 12,
+          "OldNames": []
+        }
+      ]
+    }
+  },
+  {
+    "Game": 15,
+    "Status": {
+      "totalKills": 3,
+      "Players": [
+        {
+          "Name": "Dono da Bola",
+          "Kills": 0,
+          "OldNames": []
+        },
+        {
+          "Name": "Oootsimo",
+          "Kills": 0,
+          "OldNames": [
+            "Fasano Again"
+          ]
+        },
+        {
+          "Name": "Isgalamido",
+          "Kills": 0,
+          "OldNames": []
+        },
+        {
+          "Name": "Assasinu Credi",
+          "Kills": 0,
+          "OldNames": []
+        },
+        {
+          "Name": "Zeh",
+          "Kills": 0,
+          "OldNames": []
+        }
+      ]
+    }
+  },
+  {
+    "Game": 16,
+    "Status": {
+      "totalKills": 0,
+      "Players": [
+        {
+          "Name": "Dono da Bola",
+          "Kills": 0,
+          "OldNames": []
+        },
+        {
+          "Name": "Oootsimo",
+          "Kills": 0,
+          "OldNames": []
+        },
+        {
+          "Name": "Isgalamido",
+          "Kills": 0,
+          "OldNames": []
+        },
+        {
+          "Name": "Assasinu Credi",
+          "Kills": 0,
+          "OldNames": []
+        },
+        {
+          "Name": "Zeh",
+          "Kills": 0,
+          "OldNames": []
+        }
+      ]
+    }
+  },
+  {
+    "Game": 17,
+    "Status": {
+      "totalKills": 13,
+      "Players": [
+        {
+          "Name": "Dono da Bola",
+          "Kills": 0,
+          "OldNames": []
+        },
+        {
+          "Name": "Oootsimo",
+          "Kills": 2,
+          "OldNames": []
+        },
+        {
+          "Name": "Mal",
+          "Kills": 0,
+          "OldNames": [
+            "UnnamedPlayer"
+          ]
+        },
+        {
+          "Name": "Assasinu Credi",
+          "Kills": 0,
+          "OldNames": []
+        },
+        {
+          "Name": "Zeh",
+          "Kills": 1,
+          "OldNames": []
+        },
+        {
+          "Name": "Isgalamido",
+          "Kills": 1,
+          "OldNames": []
+        }
+      ]
+    }
+  },
+  {
+    "Game": 18,
+    "Status": {
+      "totalKills": 7,
+      "Players": [
+        {
+          "Name": "Oootsimo",
+          "Kills": 0,
+          "OldNames": []
+        },
+        {
+          "Name": "Assasinu Credi",
+          "Kills": 2,
+          "OldNames": []
+        },
+        {
+          "Name": "Zeh",
+          "Kills": 2,
+          "OldNames": []
+        },
+        {
+          "Name": "Mal",
+          "Kills": 0,
+          "OldNames": []
+        },
+        {
+          "Name": "Isgalamido",
+          "Kills": 1,
+          "OldNames": []
+        },
+        {
+          "Name": "Dono da Bola",
+          "Kills": 0,
+          "OldNames": []
+        }
+      ]
+    }
+  },
+  {
+    "Game": 19,
+    "Status": {
+      "totalKills": 95,
+      "Players": [
+        {
+          "Name": "Isgalamido",
+          "Kills": 15,
+          "OldNames": []
+        },
+        {
+          "Name": "Oootsimo",
+          "Kills": 11,
+          "OldNames": []
+        },
+        {
+          "Name": "Dono da Bola",
+          "Kills": 15,
+          "OldNames": []
+        },
+        {
+          "Name": "Assasinu Credi",
+          "Kills": 12,
+          "OldNames": []
+        },
+        {
+          "Name": "Zeh",
+          "Kills": 21,
+          "OldNames": []
+        },
+        {
+          "Name": "Mal",
+          "Kills": 8,
+          "OldNames": []
+        }
+      ]
+    }
+  },
+  {
+    "Game": 20,
+    "Status": {
+      "totalKills": 3,
+      "Players": [
+        {
+          "Name": "Isgalamido",
+          "Kills": 0,
+          "OldNames": []
+        },
+        {
+          "Name": "Oootsimo",
+          "Kills": 1,
+          "OldNames": []
+        },
+        {
+          "Name": "Dono da Bola",
+          "Kills": 2,
+          "OldNames": []
+        },
+        {
+          "Name": "Assasinu Credi",
+          "Kills": 0,
+          "OldNames": []
+        },
+        {
+          "Name": "Zeh",
+          "Kills": 0,
+          "OldNames": []
+        },
+        {
+          "Name": "Mal",
+          "Kills": 0,
+          "OldNames": []
+        }
+      ]
+    }
+  },
+  {
+    "Game": 21,
+    "Status": {
+      "totalKills": 131,
+      "Players": [
+        {
+          "Name": "Isgalamido",
+          "Kills": 19,
+          "OldNames": []
+        },
+        {
+          "Name": "Oootsimo",
+          "Kills": 24,
+          "OldNames": []
+        },
+        {
+          "Name": "Dono da Bola",
+          "Kills": 16,
+          "OldNames": []
+        },
+        {
+          "Name": "Assasinu Credi",
+          "Kills": 22,
+          "OldNames": []
+        },
+        {
+          "Name": "Zeh",
+          "Kills": 21,
+          "OldNames": []
+        },
+        {
+          "Name": "Mal",
+          "Kills": 12,
+          "OldNames": []
+        }
+      ]
+    }
+  }
+]

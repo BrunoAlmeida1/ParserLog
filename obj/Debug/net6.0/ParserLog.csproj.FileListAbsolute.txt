@@ -1,0 +1,17 @@
+D:\12. Projetos TI\DIO - Projetos\Projetos\SelecaoPragma\ParserLog\bin\Debug\net6.0\ParserLog.exe
+D:\12. Projetos TI\DIO - Projetos\Projetos\SelecaoPragma\ParserLog\bin\Debug\net6.0\ParserLog.deps.json
+D:\12. Projetos TI\DIO - Projetos\Projetos\SelecaoPragma\ParserLog\bin\Debug\net6.0\ParserLog.runtimeconfig.json
+D:\12. Projetos TI\DIO - Projetos\Projetos\SelecaoPragma\ParserLog\bin\Debug\net6.0\ParserLog.dll
+D:\12. Projetos TI\DIO - Projetos\Projetos\SelecaoPragma\ParserLog\bin\Debug\net6.0\ParserLog.pdb
+D:\12. Projetos TI\DIO - Projetos\Projetos\SelecaoPragma\ParserLog\obj\Debug\net6.0\ParserLog.csproj.AssemblyReference.cache
+D:\12. Projetos TI\DIO - Projetos\Projetos\SelecaoPragma\ParserLog\obj\Debug\net6.0\ParserLog.GeneratedMSBuildEditorConfig.editorconfig
+D:\12. Projetos TI\DIO - Projetos\Projetos\SelecaoPragma\ParserLog\obj\Debug\net6.0\ParserLog.AssemblyInfoInputs.cache
+D:\12. Projetos TI\DIO - Projetos\Projetos\SelecaoPragma\ParserLog\obj\Debug\net6.0\ParserLog.AssemblyInfo.cs
+D:\12. Projetos TI\DIO - Projetos\Projetos\SelecaoPragma\ParserLog\obj\Debug\net6.0\ParserLog.csproj.CoreCompileInputs.cache
+D:\12. Projetos TI\DIO - Projetos\Projetos\SelecaoPragma\ParserLog\obj\Debug\net6.0\ParserLog.dll
+D:\12. Projetos TI\DIO - Projetos\Projetos\SelecaoPragma\ParserLog\obj\Debug\net6.0\refint\ParserLog.dll
+D:\12. Projetos TI\DIO - Projetos\Projetos\SelecaoPragma\ParserLog\obj\Debug\net6.0\ParserLog.pdb
+D:\12. Projetos TI\DIO - Projetos\Projetos\SelecaoPragma\ParserLog\obj\Debug\net6.0\ParserLog.genruntimeconfig.cache
+D:\12. Projetos TI\DIO - Projetos\Projetos\SelecaoPragma\ParserLog\obj\Debug\net6.0\ref\ParserLog.dll
+D:\12. Projetos TI\DIO - Projetos\Projetos\SelecaoPragma\ParserLog\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\12. Projetos TI\DIO - Projetos\Projetos\SelecaoPragma\ParserLog\obj\Debug\net6.0\ParserLog.csproj.CopyComplete
