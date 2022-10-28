@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace ParserLog.Models
 {
-    public class Partidas
+    public class Games
     {
         public int Game { get; set; }
         public StatusGame Status { get; set; }

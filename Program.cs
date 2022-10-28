@@ -4,7 +4,7 @@ using Newtonsoft.Json;
 using ParserLog.Models;
 
 //Lista que irá receber os dados de cada uma das partidas
-List<Partidas> games = new List<Partidas>();
+List<Games> games = new List<Games>();
 
 //Variável que organiza e comenta os dados do log
 string commentedData = "";
@@ -36,9 +36,10 @@ foreach (string line in System.IO.File.ReadLines("./Files/Inputs/Quake.txt"))
         //userIdList armazena o id do jogador e o seus dados num objeto da classe Player. O userIdList_2 é usado quando o log registra a desconexão de um jogador. Quando isso acontece, adicionamos o jogador desconectado à userIdList_2 e removemos de userIdList para que se um novo jogador se conectar usando o mesmo id de um antigo jogador ele não seja registrado como um novo nome dele. 
         Dictionary<string, Player> userIdList = new Dictionary<string, Player>();
         Dictionary<string, Player> userIdList_2 = new Dictionary<string, Player>();
+        Dictionary<string, Player> userIdListTemp = new Dictionary<string, Player>();
         List<Player> playerList = new List<Player>();
         StatusGame status = new StatusGame();
-        Partidas game = new Partidas();
+        Games game = new Games();
         game.Game = gameId;
         int totalKills = 0;
 
@@ -61,9 +62,9 @@ foreach (string line in System.IO.File.ReadLines("./Files/Inputs/Quake.txt"))
                 string userId = lineData.Substring(startID + 3, 1);
                 Player user = new Player() { OldNames = new List<string>() };
 
-                //Essa condição verifica se o id do usuário já está entre as Keys do dicionário userIdList. Senão estiver é analisado se o nome do Player já está entre os objetos do userIdList_2, se estiver nada será feito, senão é adicionado o usuário a userIdList. 
-                //Mas se o id estiver ele vai para o Else e então verifica se o nome armazenado na key correspondente ao id é diferente do novo nome apresentado. Se for ele atualiza o nome de usuário e armazena o antigo nome no atributo OldNames.
-                if (!userIdList.ContainsKey(userId))
+                //Essa condição verifica se o id do usuário já está entre as Keys do dicionário userIdList. Senão estiver é analisado se o nome do Player já está entre os objetos do userIdList_2, se estiver acrescentamos um objeto Player com esse nome no userIdListTemp, senão é adicionado o usuário a userIdList. 
+                //Mas se o id estiver ele vai para o Else e então verifica tanto na userIdList quanto na userIdListTemp se o atributo name do objeto armazenado na key correspondente ao id é diferente do novo nome apresentado. Se for ele atualiza o nome de usuário no dicionário em que esta condição é verdadeira. Se for na userIdList, é armazenado o antigo nome no atributo OldNames do objeto correspondente a ele; se for na userIdListTemp, atualizamos os atributos Name e OldNames de userIdList_2.
+                if (!userIdList.ContainsKey(userId) && !userIdListTemp.ContainsKey(userId))
                 {
                     if (userIdList_2.Count() > 0)
                     {
@@ -81,6 +82,11 @@ foreach (string line in System.IO.File.ReadLines("./Files/Inputs/Quake.txt"))
                             user.Name = name;
                             userIdList.Add(userId, user);
                         }
+                        else
+                        {
+                            user.Name = name;
+                            userIdListTemp.Add(userId, user);
+                        }
                     }
                     else
                     {
@@ -89,14 +95,30 @@ foreach (string line in System.IO.File.ReadLines("./Files/Inputs/Quake.txt"))
                     }
                     commentedData += ($"\n{lineData} \n* O jogador {name} entrou na partida.");
                 }
-                else if (userIdList[userId].Name != name)
+                else if (userIdList.ContainsKey(userId))
                 {
                     commentedData += ($"\n{lineData} \n* O jogador {userIdList[userId].Name} mudou o nome para {name}.");
 
-                    string oldName = userIdList[userId].Name;
+                    if (userIdList[userId].Name != name)
+                    {
+                        string oldName = userIdList[userId].Name;
 
-                    userIdList[userId].OldNames.Add(oldName);
-                    userIdList[userId].Name = name;
+                        userIdList[userId].OldNames.Add(oldName);
+                        userIdList[userId].Name = name;
+                    }
+                }
+                else if (userIdListTemp.ContainsKey(userId))
+                {
+                    if (userIdListTemp[userId].Name != name)
+                    {
+                        string oldName = userIdListTemp[userId].Name;
+
+                        string key = userIdList_2.FirstOrDefault(x => x.Value.Name == oldName).Key;
+
+                        userIdList_2[key].OldNames.Add(oldName);
+                        userIdList_2[key].Name = name;
+                        userIdListTemp[userId].Name = name;
+                    }
                 }
             }
             //Calcula o número de kills de cada jogador e o total da partida.
@@ -159,6 +181,8 @@ foreach (string line in System.IO.File.ReadLines("./Files/Inputs/Quake.txt"))
                     }
                 }
                 userIdList.Remove(userId);
+                userIdListTemp.Remove(userId);
+
             }
         }
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\12. Projetos TI\\DIO - Projetos\\Projetos\\SelecaoPragma\\ParserLog\\ParserLog.csproj": {}
+    "D:\\12. Projetos TI\\DIO - Projetos\\Projetos\\SelecaoPragma\\Parser-Log\\ParserLog.csproj": {}
   },
   "projects": {
-    "D:\\12. Projetos TI\\DIO - Projetos\\Projetos\\SelecaoPragma\\ParserLog\\ParserLog.csproj": {
+    "D:\\12. Projetos TI\\DIO - Projetos\\Projetos\\SelecaoPragma\\Parser-Log\\ParserLog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\12. Projetos TI\\DIO - Projetos\\Projetos\\SelecaoPragma\\ParserLog\\ParserLog.csproj",
+        "projectUniqueName": "D:\\12. Projetos TI\\DIO - Projetos\\Projetos\\SelecaoPragma\\Parser-Log\\ParserLog.csproj",
         "projectName": "ParserLog",
-        "projectPath": "D:\\12. Projetos TI\\DIO - Projetos\\Projetos\\SelecaoPragma\\ParserLog\\ParserLog.csproj",
+        "projectPath": "D:\\12. Projetos TI\\DIO - Projetos\\Projetos\\SelecaoPragma\\Parser-Log\\ParserLog.csproj",
         "packagesPath": "C:\\Users\\elias\\.nuget\\packages\\",
-        "outputPath": "D:\\12. Projetos TI\\DIO - Projetos\\Projetos\\SelecaoPragma\\ParserLog\\obj\\",
+        "outputPath": "D:\\12. Projetos TI\\DIO - Projetos\\Projetos\\SelecaoPragma\\Parser-Log\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elias\\AppData\\Roaming\\NuGet\\NuGet.Config"
