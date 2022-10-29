@@ -1,0 +1,192 @@
+InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0\sv_allowDownload\0\sv_maxclients\16\sv_privateClients\2\g_gametype\0\sv_hostname\Code Miner Server\sv_minRate\0\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\version\ioq3 1.36 linux-x86_64 Apr 12 2009\protocol\68\mapname\q3dm17\gamename\baseq3\g_needpass\0
+  0:07 ClientConnect: 2
+  0:07 ClientUserinfoChanged: 2 n\Fasano Again\t\0\model\razor/id\hmodel\razor/id\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:10 ClientUserinfoChanged: 2 n\Oootsimo\t\0\model\razor/id\hmodel\razor/id\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:10 ClientBegin: 2
+  0:12 Item: 2 weapon_rocketlauncher
+  0:12 Item: 2 ammo_rockets
+  0:14 Item: 2 item_armor_body
+  0:15 ClientConnect: 3
+  0:15 ClientUserinfoChanged: 3 n\Isgalamido\t\0\model\xian/default\hmodel\xian/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:16 Item: 2 ammo_rockets
+  0:17 Item: 2 weapon_rocketlauncher
+  0:17 ClientConnect: 4
+  0:17 ClientUserinfoChanged: 4 n\Zeh\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:18 ClientUserinfoChanged: 3 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:18 ClientBegin: 3
+  0:19 ClientUserinfoChanged: 4 n\Zeh\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:19 ClientBegin: 4
+  0:20 Item: 2 item_armor_shard
+  0:20 Item: 2 item_armor_shard
+  0:20 Item: 2 item_armor_shard
+  0:20 Item: 2 item_armor_combat
+  0:22 Item: 4 ammo_shells
+  0:22 Item: 4 weapon_shotgun
+  0:23 Item: 3 weapon_rocketlauncher
+  0:25 Kill: 2 4 6: Oootsimo killed Zeh by MOD_ROCKET
+  0:26 Item: 2 weapon_shotgun
+  0:26 Item: 2 item_armor_shard
+  0:27 Item: 2 item_armor_shard
+  0:27 Item: 2 item_armor_shard
+  0:28 Item: 4 weapon_rocketlauncher
+  0:39 Item: 3 item_health_large
+  0:47 Item: 3 weapon_railgun
+  0:47 Item: 2 weapon_rocketlauncher
+  0:49 Kill: 3 4 10: Isgalamido killed Zeh by MOD_RAILGUN
+  0:51 Item: 2 item_armor_shard
+  0:51 Item: 2 item_armor_shard
+  0:52 Item: 2 item_armor_shard
+  0:52 Item: 2 item_armor_combat
+  0:53 Item: 4 weapon_rocketlauncher
+  0:53 Item: 4 ammo_rockets
+  0:53 Item: 3 weapon_railgun
+  0:59 Item: 2 item_health_large
+  1:01 Item: 2 weapon_rocketlauncher
+  1:01 Item: 2 ammo_rockets
+  1:04 Item: 3 item_quad
+  1:07 Kill: 4 3 6: Zeh killed Isgalamido by MOD_ROCKET
+  1:08 Item: 4 weapon_railgun
+  1:08 Item: 4 item_quad
+  1:11 Item: 3 weapon_rocketlauncher
+  1:11 Item: 4 weapon_shotgun
+  1:13 Item: 4 ammo_shells
+  1:13 Kill: 4 3 1: Zeh killed Isgalamido by MOD_SHOTGUN
+  1:14 Kill: 2 4 7: Oootsimo killed Zeh by MOD_ROCKET_SPLASH
+  1:16 Item: 3 weapon_shotgun
+  1:17 Item: 3 item_quad
+  1:17 Kill: 1022 2 22: <world> killed Oootsimo by MOD_TRIGGER_HURT
+  1:18 Item: 4 weapon_rocketlauncher
+  1:18 Item: 3 item_armor_shard
+  1:18 Item: 3 item_armor_shard
+  1:19 Item: 3 item_armor_shard
+  1:19 ClientConnect: 5
+  1:19 ClientUserinfoChanged: 5 n\Dono da Bola\t\0\model\sarge/krusade\hmodel\sarge/krusade\g_redteam\\g_blueteam\\c1\5\c2\5\hc\95\w\0\l\0\tt\0\tl\0
+  1:20 Item: 4 item_armor_body
+  1:21 ClientConnect: 6
+  1:21 ClientUserinfoChanged: 6 n\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  1:21 ClientUserinfoChanged: 5 n\Dono da Bola\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0
+  1:21 ClientBegin: 5
+  1:21 Item: 2 weapon_rocketlauncher
+  1:24 ClientUserinfoChanged: 6 n\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  1:24 ClientBegin: 6
+  1:25 Item: 2 item_armor_shard
+  1:25 Item: 2 item_armor_shard
+  TESTE Kill: 3 5 1: UnnamedPlayer killed Dono da Bola by MOD_SHOTGUN
+  1:25 Item: 2 item_armor_combat
+  1:26 Item: 5 weapon_rocketlauncher
+  1:27 Item: 5 weapon_rocketlauncher
+  1:30 Item: 2 weapon_rocketlauncher
+  1:31 Kill: 1022 4 19: <world> killed Zeh by MOD_FALLING
+  1:31 Kill: 3 6 1: Isgalamido killed UnnamedPlayer by MOD_SHOTGUN
+  1:34 Kill: 3 5 1: Isgalamido killed Dono da Bola by MOD_SHOTGUN
+  1:34 Item: 4 weapon_rocketlauncher
+  1:34 Item: 4 ammo_rockets
+  TESTE ClientDisconnect: 6
+  1:40 Item: 3 weapon_rocketlauncher
+  1:45 ClientUserinfoChanged: 9 n\UnnamedPlayer\t\0\model
+  1:45 Kill: 4 3 10: Zeh killed Isgalamido by MOD_RAILGUN
+  1:45 ClientUserinfoChanged: 9 n\Maluquinho\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  1:46 Item: 2 item_armor_shard
+  1:46 Item: 2 item_armor_shard
+  1:46 Item: 2 item_armor_shard
+  1:48 Item: 2 weapon_rocketlauncher
+  1:50 Item: 2 ammo_shells
+  1:50 Item: 6 weapon_rocketlauncher
+  1:51 Kill: 5 3 7: Dono da Bola killed Isgalamido by MOD_ROCKET_SPLASH
+  1:54 Item: 5 weapon_railgun
+  1:54 Kill: 2 5 7: Oootsimo killed Dono da Bola by MOD_ROCKET_SPLASH
+  1:56 Item: 6 item_armor_combat
+  1:58 Item: 5 weapon_rocketlauncher
+  1:59 Item: 4 item_health_large
+  2:00 Item: 4 weapon_rocketlauncher
+  2:00 Item: 3 item_quad
+  2:01 Item: 5 item_armor_body
+  2:02 Kill: 6 4 7: Maluquinho killed Zeh by MOD_ROCKET_SPLASH
+  2:03 Item: 5 weapon_rocketlauncher
+  2:04 Kill: 1022 6 22: <world> killed Maluquinho by MOD_TRIGGER_HURT
+  2:05 Item: 2 item_armor_shard
+  2:05 Item: 2 item_armor_shard
+  2:05 Item: 2 item_armor_shard
+  2:05 ClientConnect: 7
+  2:05 ClientUserinfoChanged: 7 n\Assasinu Credi\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0
+  2:06 Kill: 3 2 3: Isgalamido killed Oootsimo by MOD_MACHINEGUN
+  2:08 ClientUserinfoChanged: 7 n\Assasinu Credi\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  2:08 ClientBegin: 7
+  2:08 Item: 4 weapon_rocketlauncher
+  2:08 Item: 2 ammo_rockets
+  2:09 Item: 2 weapon_rocketlauncher
+  2:09 Kill: 5 4 7: Dono da Bola killed Zeh by MOD_ROCKET_SPLASH
+  2:09 Item: 5 weapon_rocketlauncher
+  2:10 Kill: 2 7 6: Oootsimo killed Assasinu Credi by MOD_ROCKET
+  2:11 Item: 3 weapon_rocketlauncher
+  2:15 Item: 3 item_armor_shard
+  2:15 Item: 3 item_armor_shard
+  2:16 Item: 3 item_armor_shard
+  2:16 Item: 4 weapon_shotgun
+  2:19 Item: 7 weapon_rocketlauncher
+  2:19 Item: 7 ammo_rockets
+  2:26 Item: 2 weapon_rocketlauncher
+  2:28 Kill: 2 5 7: Oootsimo killed Dono da Bola by MOD_ROCKET_SPLASH
+  2:28 Kill: 4 3 1: Zeh killed Isgalamido by MOD_SHOTGUN
+  2:29 Item: 4 item_quad
+  2:29 Item: 7 weapon_rocketlauncher
+  2:31 Item: 7 item_armor_body
+  2:32 Item: 3 weapon_rocketlauncher
+  2:34 Item: 4 item_armor_shard
+  2:34 Item: 2 item_health_large
+  2:34 Item: 4 item_armor_shard
+  2:35 Item: 4 item_armor_combat
+  2:36 Item: 5 weapon_rocketlauncher
+  2:38 Kill: 7 5 7: Assasinu Credi killed Dono da Bola by MOD_ROCKET_SPLASH
+  2:38 Kill: 2 4 6: Oootsimo killed Zeh by MOD_ROCKET
+  2:40 ClientUserinfoChanged: 9 n\Mal\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  2:41 Item: 3 item_armor_shard
+  2:41 Item: 4 weapon_rocketlauncher
+  2:42 Item: 2 weapon_rocketlauncher
+  2:42 Item: 2 item_armor_shard
+  TESTE Kill: 3 5 1: Mal killed Dono da Bola by MOD_SHOTGUN
+  2:42 Item: 2 item_armor_shard
+  2:46 Kill: 4 5 7: Zeh killed Dono da Bola by MOD_ROCKET_SPLASH
+  2:46 Item: 4 weapon_rocketlauncher
+  2:47 Item: 4 weapon_rocketlauncher
+  2:48 Item: 2 weapon_shotgun
+  2:55 Item: 7 ammo_shells
+  2:56 Item: 3 weapon_rocketlauncher
+  2:56 Item: 3 ammo_rockets
+  2:59 Kill: 4 7 6: Zeh killed Assasinu Credi by MOD_ROCKET
+  3:00 Item: 2 weapon_rocketlauncher
+  3:01 Kill: 2 4 7: Oootsimo killed Zeh by MOD_ROCKET_SPLASH
+  3:02 Item: 6 item_health_large
+  3:04 Item: 4 ammo_rockets
+  3:04 Item: 4 weapon_rocketlauncher
+  3:05 Item: 7 weapon_rocketlauncher
+  3:05 Item: 2 item_armor_combat
+  3:06 Item: 4 item_armor_body
+  3:06 Kill: 2 3 7: Oootsimo killed Isgalamido by MOD_ROCKET_SPLASH
+  3:09 Item: 7 item_health_large
+  3:10 Item: 6 weapon_rocketlauncher
+  3:10 Kill: 4 6 7: Zeh killed Mal by MOD_ROCKET_SPLASH
+  3:11 Item: 4 weapon_rocketlauncher
+  3:12 Kill: 2 7 7: Oootsimo killed Assasinu Credi by MOD_ROCKET_SPLASH
+  3:13 Item: 2 weapon_rocketlauncher
+  3:13 Item: 3 weapon_rocketlauncher
+  3:16 Item: 3 ammo_slugs
+  3:16 Item: 2 item_armor_shard
+  3:16 Item: 2 item_armor_shard
+  3:16 Item: 2 item_armor_shard
+  3:18 Item: 3 weapon_railgun
+  3:19 Item: 7 weapon_rocketlauncher
+  3:21 Item: 6 ammo_bullets
+  3:21 Kill: 1022 3 22: <world> killed Isgalamido by MOD_TRIGGER_HURT
+  3:21 Item: 6 weapon_rocketlauncher
+  3:23 Item: 7 weapon_rocketlauncher
+  3:23 Item: 6 weapon_rocketlauncher
+  3:24 Item: 2 item_armor_shard
+  3:25 Item: 2 item_armor_shard
+  3:25 Item: 2 item_armor_shard
+  3:25 Item: 4 item_quad
+  3:31 Item: 3 weapon_rocketlauncher
+  3:31 Kill: 4 6 7: Zeh killed Mal by MOD_ROCKET_SPLASH
+  3:31 Item: 5 weapon_rocketlauncher
+  3:32 Item: 7 weapon_rocketlauncher
+  3:32 ShutdownGame:

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RLTFrdhiI1uhCyxXwIObYtBiD1VoBJBAgwCpqTpbwQPPN8OentpzutV1x8cgjsln4oVgELdNei2q1uxidF0Hqg==",
+  "dgSpecHash": "/A1PwLjXyEHjKffFgR+BvGVjWzbd/Bbv4elThUAsSCqYTVBICq1DatCbUDGX4bByk54DLy1tGO1AHPHkkfmx9Q==",
   "success": true,
-  "projectFilePath": "D:\\12. Projetos TI\\DIO - Projetos\\Projetos\\SelecaoPragma\\ParserLog\\ParserLog.csproj",
+  "projectFilePath": "D:\\12. Projetos TI\\DIO - Projetos\\Projetos\\SelecaoPragma\\Parser-Log\\ParserLog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elias\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
