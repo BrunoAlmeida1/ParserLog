@@ -17,6 +17,8 @@
 * O player " Isgalamido" morreu por que estava ferido e caiu de uma altura que o matou.
  21:15 ClientUserinfoChanged: 2 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
 * O jogador Isgalamido entrou na partida.
+ 21:17 ClientUserinfoChanged: 2 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
+* O jogador Isgalamido entrou na partida.
  21:42 Kill: 1022 2 22: <world> killed Isgalamido by MOD_TRIGGER_HURT
 * O player " Isgalamido" morreu por que estava ferido e caiu de uma altura que o matou.
  21:51 ClientUserinfoChanged: 3 n\Dono da Bola\t\0\model\sarge/krusade\hmodel\sarge/krusade\g_redteam\\g_blueteam\\c1\5\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
@@ -306,6 +308,8 @@
  12:26 Kill: 3 2 7: Isgalamido killed Dono da Bola by MOD_ROCKET_SPLASH
 * O player "Isgalamido" matou o player " Dono da Bola" usando a arma "Rocket Splash".
  13:36 ClientUserinfoChanged: 2 n\Zeh\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
+* O jogador Zeh entrou na partida.
+ 13:37 ClientUserinfoChanged: 2 n\Zeh\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
 * O jogador Zeh entrou na partida.
  14:02 Kill: 1022 5 22: <world> killed Assasinu Credi by MOD_TRIGGER_HURT
 * O player " Assasinu Credi" morreu por que estava ferido e caiu de uma altura que o matou.
@@ -949,6 +953,8 @@
 * O player "Zeh" matou o player " Oootsimo" usando a arma "Rocket Splash".
  18:00 ClientUserinfoChanged: 3 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
 * O jogador Isgalamido entrou na partida.
+ 18:01 ClientUserinfoChanged: 3 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
+* O jogador Isgalamido entrou na partida.
  18:03 Kill: 2 4 6: Oootsimo killed Zeh by MOD_ROCKET
 * O player "Oootsimo" matou o player " Zeh" usando a arma "Rocket".
  18:07 Kill: 3 7 6: Isgalamido killed Assasinu Credi by MOD_ROCKET
@@ -964,6 +970,8 @@
  18:22 Kill: 1022 6 22: <world> killed Mal by MOD_TRIGGER_HURT
 * O player " Mal" morreu por que estava ferido e caiu de uma altura que o matou.
  18:38 ClientUserinfoChanged: 3 n\Dono da Bola\t\0\model\sarge/krusade\hmodel\sarge/krusade\g_redteam\\g_blueteam\\c1\5\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
+* O jogador Dono da Bola entrou na partida.
+ 18:40 ClientUserinfoChanged: 3 n\Dono da Bola\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
 * O jogador Dono da Bola entrou na partida.
  18:41 Kill: 4 7 6: Zeh killed Assasinu Credi by MOD_ROCKET
 * O player "Zeh" matou o player " Assasinu Credi" usando a arma "Rocket".
@@ -1953,6 +1961,8 @@
 * O jogador Isgalamido mudou o nome para Isgalamido.
 981:19 ClientUserinfoChanged: 5 n\Assasinu Credi\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
 * O jogador Assasinu Credi entrou na partida.
+981:22 ClientUserinfoChanged: 5 n\Assasinu Credi\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
+* O jogador Assasinu Credi entrou na partida.
 981:27 ShutdownGame:
 * Termina a partida.
 981:27 InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0\bot_minplayers\0\sv_allowDownload\0\sv_maxclients\16\sv_privateClients\2\g_gametype\4\sv_hostname\Code Miner Server\sv_minRate\0\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\version\ioq3 1.36 linux-x86_64 Apr 12 2009\protocol\68\mapname\Q3TOURNEY6_CTF\gamename\baseq3\g_needpass\0
@@ -2006,6 +2016,12 @@
   0:07 ClientUserinfoChanged: 2 n\Dono da Bola\t\1\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\1 
 * O jogador Dono da Bola mudou o nome para Dono da Bola.
   0:09 ClientUserinfoChanged: 4 n\Isgalamido\t\3\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
+* O jogador Isgalamido entrou na partida.
+  0:11 ClientUserinfoChanged: 4 n\Isgalamido\t\3\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
+* O jogador Isgalamido entrou na partida.
+  0:11 ClientUserinfoChanged: 4 n\Isgalamido\t\3\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
+* O jogador Isgalamido entrou na partida.
+  0:13 ClientUserinfoChanged: 4 n\Isgalamido\t\1\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
 * O jogador Isgalamido entrou na partida.
   0:14 ClientUserinfoChanged: 6 n\Zeh\t\1\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
 * O jogador Zeh mudou o nome para Zeh.
@@ -2075,7 +2091,15 @@
 * O player "Zeh" matou o player " Assasinu Credi" usando a arma "Rocket Splash".
   0:11 ClientUserinfoChanged: 2 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
 * O jogador Isgalamido entrou na partida.
+  0:12 ClientUserinfoChanged: 2 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
+* O jogador Isgalamido entrou na partida.
+  0:12 ClientUserinfoChanged: 2 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
+* O jogador Isgalamido entrou na partida.
   0:12 ClientUserinfoChanged: 4 n\Dono da Bola\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
+* O jogador Dono da Bola entrou na partida.
+  0:14 ClientUserinfoChanged: 4 n\Dono da Bola\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
+* O jogador Dono da Bola entrou na partida.
+  0:14 ClientUserinfoChanged: 4 n\Dono da Bola\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
 * O jogador Dono da Bola entrou na partida.
   0:16 Kill: 6 2 7: Zeh killed Isgalamido by MOD_ROCKET_SPLASH
 * O player "Zeh" matou o player " Isgalamido" usando a arma "Rocket Splash".
