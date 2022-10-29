@@ -33,7 +33,7 @@ foreach (string line in System.IO.File.ReadLines("./Files/Inputs/QuakeTest.txt")
     else
     {
         gameId++;
-        //userIdList armazena o id do jogador e o seus dados num objeto da classe Player. O userIdList_2 é usado quando o log registra a desconexão de um jogador. Quando isso acontece, adicionamos o jogador desconectado à userIdList_2 e removemos de userIdList para que se um novo jogador se conectar usando o mesmo id de um antigo jogador ele não seja registrado como um novo nome dele. 
+        //userIdList armazena o id do jogador e o seus dados num objeto da classe Player. O userIdList_2 é usado quando o log registra a desconexão de um jogador. Quando isso acontece, adicionamos o jogador desconectado à userIdList_2 e removemos de userIdList para que se um novo jogador se conectar usando o mesmo id de um antigo jogador ele não seja registrado como um novo nome dele. E o userIdListTemp garante que o atributo OldName de userIdList_2 seja sempre atualizado.
         Dictionary<string, Player> userIdList = new Dictionary<string, Player>();
         Dictionary<string, Player> userIdList_2 = new Dictionary<string, Player>();
         Dictionary<string, Player> userIdListTemp = new Dictionary<string, Player>();
@@ -63,13 +63,9 @@ foreach (string line in System.IO.File.ReadLines("./Files/Inputs/QuakeTest.txt")
                 Player user = new Player() { OldNames = new List<string>() };
 
                 //Essa condição verifica se o id do usuário já está entre as Keys do dicionário userIdList. Senão estiver é analisado se o nome do Player já está entre os objetos do userIdList_2, se estiver acrescentamos um objeto Player com esse nome no userIdListTemp, senão é adicionado o usuário a userIdList. 
-<<<<<<< HEAD
+
                 //Mas se o id estiver ele vai para o Else e então verifica tanto na userIdList quanto na userIdListTemp se o atributo name do objeto armazenado na key correspondente ao id é diferente do novo nome apresentado. Se for ele atualiza o nome de usuário no dicionário em que esta condição é verdadeira. Se for na userIdList, é armazenado o antigo nome no atributo OldNames do objeto correspondente a ele; se for na userIdListTemp, atualizamos os atributos Name e OldNames de userIdList_2.
                 if (!userIdList.ContainsKey(userId) && !userIdListTemp.ContainsKey(userId))
-=======
-                //Mas se o id estiver ele vai para o Else e então verifica no userIdList se o atributo name do objeto armazenado na key correspondente ao id é diferente do novo nome apresentado. Se for ele atualiza o nome de usuário no dicionário. 
-                if (!userIdList.ContainsKey(userId))
->>>>>>> 346b8d563b7a15ee1e7d83a496a56a213e5a7726
                 {
                     if (userIdList_2.Count() > 0)
                     {
@@ -111,7 +107,6 @@ foreach (string line in System.IO.File.ReadLines("./Files/Inputs/QuakeTest.txt")
                         userIdList[userId].OldNames.Add(oldName);
                         userIdList[userId].Name = name;
                     }
-<<<<<<< HEAD
                 }
                 else if (userIdListTemp.ContainsKey(userId))
                 {
@@ -127,8 +122,6 @@ foreach (string line in System.IO.File.ReadLines("./Files/Inputs/QuakeTest.txt")
                         userIdList_2[key].Name = name;
                         userIdListTemp[userId].Name = name;
                     }
-=======
->>>>>>> 346b8d563b7a15ee1e7d83a496a56a213e5a7726
                 }
             }
             //Calcula o número de kills de cada jogador e o total da partida.
