@@ -1,33 +1,30 @@
 
-<<<<<<< HEAD
-InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0\sv_allowDownload\0\sv_maxclients\16\sv_privateClients\2\g_gametype\0\sv_hostname\Code Miner Server\sv_minRate\0\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\version\ioq3 1.36 linux-x86_64 Apr 12 2009\protocol\68\mapname\q3dm17\gamename\baseq3\g_needpass\0
-=======
   0:00 InitGame: \sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\10000\sv_minRate\0\sv_hostname\Code Miner Server\g_gametype\0\sv_privateClients\2\sv_maxclients\16\sv_allowDownload\0\dmflags\0\fraglimit\20\timelimit\15\g_maxGameClients\0\capturelimit\8\version\ioq3 1.36 linux-x86_64 Apr 12 2009\protocol\68\mapname\q3dm17\gamename\baseq3\g_needpass\0
 * Inicia a partida.
  20:34 ClientUserinfoChanged: 2 n\Isgalamido\t\0\model\xian/default\hmodel\xian/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido entrou na partida.
+* O player Isgalamido entrou na partida.
  20:37 ClientUserinfoChanged: 2 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido mudou o nome para Isgalamido.
+* O player Isgalamido mudou o nome para Isgalamido.
  20:37 ShutdownGame:
 * Termina a partida.
  20:37 InitGame: \sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\10000\sv_minRate\0\sv_hostname\Code Miner Server\g_gametype\0\sv_privateClients\2\sv_maxclients\16\sv_allowDownload\0\bot_minplayers\0\dmflags\0\fraglimit\20\timelimit\15\g_maxGameClients\0\capturelimit\8\version\ioq3 1.36 linux-x86_64 Apr 12 2009\protocol\68\mapname\q3dm17\gamename\baseq3\g_needpass\0
 * Inicia a partida.
  20:38 ClientUserinfoChanged: 2 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido entrou na partida.
+* O player Isgalamido entrou na partida.
  20:54 Kill: 1022 2 22: <world> killed Isgalamido by MOD_TRIGGER_HURT
 * O player " Isgalamido" morreu por que estava ferido e caiu de uma altura que o matou.
  21:07 Kill: 1022 2 22: <world> killed Isgalamido by MOD_TRIGGER_HURT
 * O player " Isgalamido" morreu por que estava ferido e caiu de uma altura que o matou.
  21:15 ClientUserinfoChanged: 2 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido entrou na partida.
+* O player Isgalamido entrou na partida.
  21:17 ClientUserinfoChanged: 2 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido entrou na partida.
+* O player Isgalamido mudou o nome para Isgalamido.
  21:42 Kill: 1022 2 22: <world> killed Isgalamido by MOD_TRIGGER_HURT
 * O player " Isgalamido" morreu por que estava ferido e caiu de uma altura que o matou.
  21:51 ClientUserinfoChanged: 3 n\Dono da Bola\t\0\model\sarge/krusade\hmodel\sarge/krusade\g_redteam\\g_blueteam\\c1\5\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
-* O jogador Dono da Bola entrou na partida.
+* O player Dono da Bola entrou na partida.
  21:53 ClientUserinfoChanged: 3 n\Mocinha\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
-* O jogador Dono da Bola mudou o nome para Mocinha.
+* O player Dono da Bola mudou o nome para Mocinha.
  22:06 Kill: 2 3 7: Isgalamido killed Mocinha by MOD_ROCKET_SPLASH
 * O player "Isgalamido" matou o player " Mocinha" usando a arma "Rocket Splash".
  22:18 Kill: 2 2 7: Isgalamido killed Isgalamido by MOD_ROCKET_SPLASH
@@ -49,23 +46,23 @@ InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0
   0:00 InitGame: \sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\10000\sv_minRate\0\sv_hostname\Code Miner Server\g_gametype\0\sv_privateClients\2\sv_maxclients\16\sv_allowDownload\0\dmflags\0\fraglimit\20\timelimit\15\g_maxGameClients\0\capturelimit\8\version\ioq3 1.36 linux-x86_64 Apr 12 2009\protocol\68\mapname\q3dm17\gamename\baseq3\g_needpass\0
 * Inicia a partida.
   0:25 ClientUserinfoChanged: 2 n\Dono da Bola\t\0\model\sarge/krusade\hmodel\sarge/krusade\g_redteam\\g_blueteam\\c1\5\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
-* O jogador Dono da Bola entrou na partida.
+* O player Dono da Bola entrou na partida.
   0:27 ClientUserinfoChanged: 2 n\Mocinha\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
-* O jogador Dono da Bola mudou o nome para Mocinha.
+* O player Dono da Bola mudou o nome para Mocinha.
   0:59 ClientUserinfoChanged: 3 n\Isgalamido\t\0\model\xian/default\hmodel\xian/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido entrou na partida.
+* O player Isgalamido entrou na partida.
   1:01 ClientUserinfoChanged: 3 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido mudou o nome para Isgalamido.
+* O player Isgalamido mudou o nome para Isgalamido.
   1:06 ClientUserinfoChanged: 4 n\Zeh\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Zeh entrou na partida.
+* O player Zeh entrou na partida.
   1:08 Kill: 3 2 6: Isgalamido killed Mocinha by MOD_ROCKET
 * O player "Isgalamido" matou o player " Mocinha" usando a arma "Rocket".
   1:08 ClientUserinfoChanged: 4 n\Zeh\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Zeh mudou o nome para Zeh.
+* O player Zeh mudou o nome para Zeh.
   1:26 Kill: 1022 4 22: <world> killed Zeh by MOD_TRIGGER_HURT
 * O player " Zeh" morreu por que estava ferido e caiu de uma altura que o matou.
   1:26 ClientUserinfoChanged: 2 n\Dono da Bola\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
-* O jogador Mocinha mudou o nome para Dono da Bola.
+* O player Mocinha mudou o nome para Dono da Bola.
   1:32 Kill: 1022 4 22: <world> killed Zeh by MOD_TRIGGER_HURT
 * O player " Zeh" morreu por que estava ferido e caiu de uma altura que o matou.
   1:41 Kill: 1022 2 19: <world> killed Dono da Bola by MOD_FALLING
@@ -75,11 +72,11 @@ InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0
   1:47 InitGame: \sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\10000\sv_minRate\0\sv_hostname\Code Miner Server\g_gametype\0\sv_privateClients\2\sv_maxclients\16\sv_allowDownload\0\bot_minplayers\0\dmflags\0\fraglimit\20\timelimit\15\g_maxGameClients\0\capturelimit\8\version\ioq3 1.36 linux-x86_64 Apr 12 2009\protocol\68\mapname\q3dm17\gamename\baseq3\g_needpass\0
 * Inicia a partida.
   1:47 ClientUserinfoChanged: 2 n\Dono da Bola\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
-* O jogador Dono da Bola entrou na partida.
+* O player Dono da Bola entrou na partida.
   1:47 ClientUserinfoChanged: 3 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido entrou na partida.
+* O player Isgalamido entrou na partida.
   1:47 ClientUserinfoChanged: 4 n\Zeh\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Zeh entrou na partida.
+* O player Zeh entrou na partida.
   2:00 Kill: 1022 3 22: <world> killed Isgalamido by MOD_TRIGGER_HURT
 * O player " Isgalamido" morreu por que estava ferido e caiu de uma altura que o matou.
   2:04 Kill: 1022 2 19: <world> killed Dono da Bola by MOD_FALLING
@@ -113,9 +110,9 @@ InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0
   3:41 Kill: 2 3 6: Dono da Bola killed Isgalamido by MOD_ROCKET
 * O player "Dono da Bola" matou o player " Isgalamido" usando a arma "Rocket".
   3:47 ClientUserinfoChanged: 5 n\Assasinu Credi\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
-* O jogador Assasinu Credi entrou na partida.
+* O player Assasinu Credi entrou na partida.
   3:49 ClientUserinfoChanged: 5 n\Assasinu Credi\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Assasinu Credi mudou o nome para Assasinu Credi.
+* O player Assasinu Credi mudou o nome para Assasinu Credi.
   3:51 Kill: 1022 2 19: <world> killed Dono da Bola by MOD_FALLING
 * O player " Dono da Bola" morreu por que caiu de uma altura que o matou.
   3:59 Kill: 4 5 6: Zeh killed Assasinu Credi by MOD_ROCKET
@@ -299,21 +296,21 @@ InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0
  12:13 InitGame: \sv_floodProtect\1\sv_maxPing\0\sv_minPing\0\sv_maxRate\10000\sv_minRate\0\sv_hostname\Code Miner Server\g_gametype\0\sv_privateClients\2\sv_maxclients\16\sv_allowDownload\0\bot_minplayers\0\dmflags\0\fraglimit\20\timelimit\15\g_maxGameClients\0\capturelimit\8\version\ioq3 1.36 linux-x86_64 Apr 12 2009\protocol\68\mapname\q3dm17\gamename\baseq3\g_needpass\0
 * Inicia a partida.
  12:14 ClientUserinfoChanged: 2 n\Dono da Bola\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
-* O jogador Dono da Bola entrou na partida.
+* O player Dono da Bola entrou na partida.
  12:14 ClientUserinfoChanged: 3 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido entrou na partida.
+* O player Isgalamido entrou na partida.
  12:14 ClientUserinfoChanged: 4 n\Zeh\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Zeh entrou na partida.
+* O player Zeh entrou na partida.
  12:14 ClientUserinfoChanged: 5 n\Assasinu Credi\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Assasinu Credi entrou na partida.
+* O player Assasinu Credi entrou na partida.
  12:24 Kill: 3 4 6: Isgalamido killed Zeh by MOD_ROCKET
 * O player "Isgalamido" matou o player " Zeh" usando a arma "Rocket".
  12:26 Kill: 3 2 7: Isgalamido killed Dono da Bola by MOD_ROCKET_SPLASH
 * O player "Isgalamido" matou o player " Dono da Bola" usando a arma "Rocket Splash".
  13:36 ClientUserinfoChanged: 2 n\Zeh\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Zeh entrou na partida.
+* O player Zeh entrou na partida.
  13:37 ClientUserinfoChanged: 2 n\Zeh\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Zeh entrou na partida.
+* O player Zeh mudou o nome para Zeh.
  14:02 Kill: 1022 5 22: <world> killed Assasinu Credi by MOD_TRIGGER_HURT
 * O player " Assasinu Credi" morreu por que estava ferido e caiu de uma altura que o matou.
  14:15 Kill: 2 5 10: Zeh killed Assasinu Credi by MOD_RAILGUN
@@ -341,20 +338,19 @@ InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0
  54:21 ShutdownGame:
 * Termina a partida.
   0:00 InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0\sv_allowDownload\0\sv_maxclients\16\sv_privateClients\2\g_gametype\0\sv_hostname\Code Miner Server\sv_minRate\0\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\version\ioq3 1.36 linux-x86_64 Apr 12 2009\protocol\68\mapname\q3dm17\gamename\baseq3\g_needpass\0
->>>>>>> 346b8d563b7a15ee1e7d83a496a56a213e5a7726
 * Inicia a partida.
   0:07 ClientUserinfoChanged: 2 n\Fasano Again\t\0\model\razor/id\hmodel\razor/id\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Fasano Again entrou na partida.
+* O player Fasano Again entrou na partida.
   0:10 ClientUserinfoChanged: 2 n\Oootsimo\t\0\model\razor/id\hmodel\razor/id\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Fasano Again mudou o nome para Oootsimo.
+* O player Fasano Again mudou o nome para Oootsimo.
   0:15 ClientUserinfoChanged: 3 n\Isgalamido\t\0\model\xian/default\hmodel\xian/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido entrou na partida.
+* O player Isgalamido entrou na partida.
   0:17 ClientUserinfoChanged: 4 n\Zeh\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Zeh entrou na partida.
+* O player Zeh entrou na partida.
   0:18 ClientUserinfoChanged: 3 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido mudou o nome para Isgalamido.
+* O player Isgalamido mudou o nome para Isgalamido.
   0:19 ClientUserinfoChanged: 4 n\Zeh\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Zeh mudou o nome para Zeh.
+* O player Zeh mudou o nome para Zeh.
   0:25 Kill: 2 4 6: Oootsimo killed Zeh by MOD_ROCKET
 * O player "Oootsimo" matou o player " Zeh" usando a arma "Rocket".
   0:49 Kill: 3 4 10: Isgalamido killed Zeh by MOD_RAILGUN
@@ -368,30 +364,23 @@ InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0
   1:17 Kill: 1022 2 22: <world> killed Oootsimo by MOD_TRIGGER_HURT
 * O player " Oootsimo" morreu por que estava ferido e caiu de uma altura que o matou.
   1:19 ClientUserinfoChanged: 5 n\Dono da Bola\t\0\model\sarge/krusade\hmodel\sarge/krusade\g_redteam\\g_blueteam\\c1\5\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
-* O jogador Dono da Bola entrou na partida.
+* O player Dono da Bola entrou na partida.
   1:21 ClientUserinfoChanged: 6 n\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador UnnamedPlayer entrou na partida.
+* O player UnnamedPlayer entrou na partida.
   1:21 ClientUserinfoChanged: 5 n\Dono da Bola\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
-* O jogador Dono da Bola mudou o nome para Dono da Bola.
+* O player Dono da Bola mudou o nome para Dono da Bola.
   1:24 ClientUserinfoChanged: 6 n\UnnamedPlayer\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador UnnamedPlayer mudou o nome para UnnamedPlayer.
-<<<<<<< HEAD
-  TESTE Kill: 3 5 1: UnnamedPlayer killed Dono da Bola by MOD_SHOTGUN
-* O player "UnnamedPlayer" matou o player " Dono da Bola" usando a arma "Shotgun".
-=======
->>>>>>> 346b8d563b7a15ee1e7d83a496a56a213e5a7726
+* O player UnnamedPlayer mudou o nome para UnnamedPlayer.
   1:31 Kill: 1022 4 19: <world> killed Zeh by MOD_FALLING
 * O player " Zeh" morreu por que caiu de uma altura que o matou.
   1:31 Kill: 3 6 1: Isgalamido killed UnnamedPlayer by MOD_SHOTGUN
 * O player "Isgalamido" matou o player " UnnamedPlayer" usando a arma "Shotgun".
   1:34 Kill: 3 5 1: Isgalamido killed Dono da Bola by MOD_SHOTGUN
 * O player "Isgalamido" matou o player " Dono da Bola" usando a arma "Shotgun".
-  1:45 ClientUserinfoChanged: 9 n\UnnamedPlayer\t\0\model 
-* O jogador UnnamedPlayer entrou na partida.
   1:45 Kill: 4 3 10: Zeh killed Isgalamido by MOD_RAILGUN
 * O player "Zeh" matou o player " Isgalamido" usando a arma "Railgun".
-  1:45 ClientUserinfoChanged: 9 n\Maluquinho\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador UnnamedPlayer mudou o nome para Maluquinho.
+  1:45 ClientUserinfoChanged: 6 n\Maluquinho\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
+* O player UnnamedPlayer mudou o nome para Maluquinho.
   1:51 Kill: 5 3 7: Dono da Bola killed Isgalamido by MOD_ROCKET_SPLASH
 * O player "Dono da Bola" matou o player " Isgalamido" usando a arma "Rocket Splash".
   1:54 Kill: 2 5 7: Oootsimo killed Dono da Bola by MOD_ROCKET_SPLASH
@@ -401,11 +390,11 @@ InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0
   2:04 Kill: 1022 6 22: <world> killed Maluquinho by MOD_TRIGGER_HURT
 * O player " Maluquinho" morreu por que estava ferido e caiu de uma altura que o matou.
   2:05 ClientUserinfoChanged: 7 n\Assasinu Credi\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
-* O jogador Assasinu Credi entrou na partida.
+* O player Assasinu Credi entrou na partida.
   2:06 Kill: 3 2 3: Isgalamido killed Oootsimo by MOD_MACHINEGUN
 * O player "Isgalamido" matou o player " Oootsimo" usando a arma "Machinegun".
   2:08 ClientUserinfoChanged: 7 n\Assasinu Credi\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Assasinu Credi mudou o nome para Assasinu Credi.
+* O player Assasinu Credi mudou o nome para Assasinu Credi.
   2:09 Kill: 5 4 7: Dono da Bola killed Zeh by MOD_ROCKET_SPLASH
 * O player "Dono da Bola" matou o player " Zeh" usando a arma "Rocket Splash".
   2:10 Kill: 2 7 6: Oootsimo killed Assasinu Credi by MOD_ROCKET
@@ -418,10 +407,8 @@ InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0
 * O player "Assasinu Credi" matou o player " Dono da Bola" usando a arma "Rocket Splash".
   2:38 Kill: 2 4 6: Oootsimo killed Zeh by MOD_ROCKET
 * O player "Oootsimo" matou o player " Zeh" usando a arma "Rocket".
-  2:40 ClientUserinfoChanged: 9 n\Mal\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Maluquinho mudou o nome para Mal.
-  TESTE Kill: 3 5 1: Mal killed Dono da Bola by MOD_SHOTGUN
-* O player "Mal" matou o player " Dono da Bola" usando a arma "Shotgun".
+  2:40 ClientUserinfoChanged: 6 n\Mal\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
+* O player Maluquinho mudou o nome para Mal.
   2:46 Kill: 4 5 7: Zeh killed Dono da Bola by MOD_ROCKET_SPLASH
 * O player "Zeh" matou o player " Dono da Bola" usando a arma "Rocket Splash".
   2:59 Kill: 4 7 6: Zeh killed Assasinu Credi by MOD_ROCKET
@@ -439,23 +426,21 @@ InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0
   3:31 Kill: 4 6 7: Zeh killed Mal by MOD_ROCKET_SPLASH
 * O player "Zeh" matou o player " Mal" usando a arma "Rocket Splash".
   3:32 ShutdownGame:
-<<<<<<< HEAD
-=======
 * Termina a partida.
   3:32 InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0\bot_minplayers\0\sv_allowDownload\0\sv_maxclients\16\sv_privateClients\2\g_gametype\0\sv_hostname\Code Miner Server\sv_minRate\0\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\version\ioq3 1.36 linux-x86_64 Apr 12 2009\protocol\68\mapname\q3dm17\gamename\baseq3\g_needpass\0
 * Inicia a partida.
   3:32 ClientUserinfoChanged: 2 n\Oootsimo\t\0\model\razor/id\hmodel\razor/id\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Oootsimo entrou na partida.
+* O player Oootsimo entrou na partida.
   3:32 ClientUserinfoChanged: 3 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido entrou na partida.
+* O player Isgalamido entrou na partida.
   3:32 ClientUserinfoChanged: 4 n\Zeh\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Zeh entrou na partida.
+* O player Zeh entrou na partida.
   3:32 ClientUserinfoChanged: 5 n\Dono da Bola\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
-* O jogador Dono da Bola entrou na partida.
+* O player Dono da Bola entrou na partida.
   3:32 ClientUserinfoChanged: 6 n\Mal\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Mal entrou na partida.
+* O player Mal entrou na partida.
   3:32 ClientUserinfoChanged: 7 n\Assasinu Credi\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Assasinu Credi entrou na partida.
+* O player Assasinu Credi entrou na partida.
   3:51 Kill: 1022 4 19: <world> killed Zeh by MOD_FALLING
 * O player " Zeh" morreu por que caiu de uma altura que o matou.
   3:55 Kill: 1022 5 22: <world> killed Dono da Bola by MOD_TRIGGER_HURT
@@ -521,13 +506,13 @@ InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0
   5:51 Kill: 2 7 7: Oootsimo killed Assasinu Credi by MOD_ROCKET_SPLASH
 * O player "Oootsimo" matou o player " Assasinu Credi" usando a arma "Rocket Splash".
   5:53 ClientUserinfoChanged: 8 n\Chessus!\t\0\model\xaero/default\hmodel\xaero/default\g_redteam\\g_blueteam\\c1\7\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Chessus! entrou na partida.
+* O player Chessus! entrou na partida.
   5:54 Kill: 5 2 6: Dono da Bola killed Oootsimo by MOD_ROCKET
 * O player "Dono da Bola" matou o player " Oootsimo" usando a arma "Rocket".
   5:54 Kill: 5 5 7: Dono da Bola killed Dono da Bola by MOD_ROCKET_SPLASH
 * O player "Dono da Bola" matou o player " Dono da Bola" usando a arma "Rocket Splash".
   5:55 ClientUserinfoChanged: 8 n\Chessus\t\0\model\visor/blue\hmodel\visor/blue\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Chessus! mudou o nome para Chessus.
+* O player Chessus! mudou o nome para Chessus.
   6:01 Kill: 1022 2 22: <world> killed Oootsimo by MOD_TRIGGER_HURT
 * O player " Oootsimo" morreu por que estava ferido e caiu de uma altura que o matou.
   6:02 Kill: 3 6 10: Isgalamido killed Mal by MOD_RAILGUN
@@ -725,17 +710,17 @@ InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0
  11:22 InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0\bot_minplayers\0\sv_allowDownload\0\sv_maxclients\16\sv_privateClients\2\g_gametype\0\sv_hostname\Code Miner Server\sv_minRate\0\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\version\ioq3 1.36 linux-x86_64 Apr 12 2009\protocol\68\mapname\q3dm17\gamename\baseq3\g_needpass\0
 * Inicia a partida.
  11:23 ClientUserinfoChanged: 2 n\Oootsimo\t\0\model\razor/id\hmodel\razor/id\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Oootsimo entrou na partida.
+* O player Oootsimo entrou na partida.
  11:23 ClientUserinfoChanged: 3 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido entrou na partida.
+* O player Isgalamido entrou na partida.
  11:23 ClientUserinfoChanged: 4 n\Zeh\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Zeh entrou na partida.
+* O player Zeh entrou na partida.
  11:23 ClientUserinfoChanged: 5 n\Dono da Bola\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
-* O jogador Dono da Bola entrou na partida.
+* O player Dono da Bola entrou na partida.
  11:23 ClientUserinfoChanged: 6 n\Mal\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Mal entrou na partida.
+* O player Mal entrou na partida.
  11:23 ClientUserinfoChanged: 7 n\Assasinu Credi\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Assasinu Credi entrou na partida.
+* O player Assasinu Credi entrou na partida.
  11:28 Kill: 1022 2 22: <world> killed Oootsimo by MOD_TRIGGER_HURT
 * O player " Oootsimo" morreu por que estava ferido e caiu de uma altura que o matou.
  11:30 Kill: 3 4 6: Isgalamido killed Zeh by MOD_ROCKET
@@ -919,17 +904,17 @@ InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0
  16:35 InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0\bot_minplayers\0\sv_allowDownload\0\sv_maxclients\16\sv_privateClients\2\g_gametype\0\sv_hostname\Code Miner Server\sv_minRate\0\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\version\ioq3 1.36 linux-x86_64 Apr 12 2009\protocol\68\mapname\q3dm17\gamename\baseq3\g_needpass\0
 * Inicia a partida.
  16:36 ClientUserinfoChanged: 2 n\Oootsimo\t\0\model\razor/id\hmodel\razor/id\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Oootsimo entrou na partida.
+* O player Oootsimo entrou na partida.
  16:36 ClientUserinfoChanged: 3 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido entrou na partida.
+* O player Isgalamido entrou na partida.
  16:36 ClientUserinfoChanged: 4 n\Zeh\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Zeh entrou na partida.
+* O player Zeh entrou na partida.
  16:36 ClientUserinfoChanged: 5 n\Dono da Bola\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
-* O jogador Dono da Bola entrou na partida.
+* O player Dono da Bola entrou na partida.
  16:36 ClientUserinfoChanged: 6 n\Mal\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Mal entrou na partida.
+* O player Mal entrou na partida.
  16:36 ClientUserinfoChanged: 7 n\Assasinu Credi\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Assasinu Credi entrou na partida.
+* O player Assasinu Credi entrou na partida.
  16:41 Kill: 1022 7 22: <world> killed Assasinu Credi by MOD_TRIGGER_HURT
 * O player " Assasinu Credi" morreu por que estava ferido e caiu de uma altura que o matou.
  16:48 Kill: 2 4 7: Oootsimo killed Zeh by MOD_ROCKET_SPLASH
@@ -967,9 +952,9 @@ InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0
  17:55 Kill: 4 2 7: Zeh killed Oootsimo by MOD_ROCKET_SPLASH
 * O player "Zeh" matou o player " Oootsimo" usando a arma "Rocket Splash".
  18:00 ClientUserinfoChanged: 3 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido entrou na partida.
+* O player Isgalamido entrou na partida.
  18:01 ClientUserinfoChanged: 3 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido entrou na partida.
+* O player Isgalamido mudou o nome para Isgalamido.
  18:03 Kill: 2 4 6: Oootsimo killed Zeh by MOD_ROCKET
 * O player "Oootsimo" matou o player " Zeh" usando a arma "Rocket".
  18:07 Kill: 3 7 6: Isgalamido killed Assasinu Credi by MOD_ROCKET
@@ -985,9 +970,9 @@ InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0
  18:22 Kill: 1022 6 22: <world> killed Mal by MOD_TRIGGER_HURT
 * O player " Mal" morreu por que estava ferido e caiu de uma altura que o matou.
  18:38 ClientUserinfoChanged: 3 n\Dono da Bola\t\0\model\sarge/krusade\hmodel\sarge/krusade\g_redteam\\g_blueteam\\c1\5\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
-* O jogador Dono da Bola entrou na partida.
+* O player Dono da Bola entrou na partida.
  18:40 ClientUserinfoChanged: 3 n\Dono da Bola\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
-* O jogador Dono da Bola entrou na partida.
+* O player Dono da Bola mudou o nome para Dono da Bola.
  18:41 Kill: 4 7 6: Zeh killed Assasinu Credi by MOD_ROCKET
 * O player "Zeh" matou o player " Assasinu Credi" usando a arma "Rocket".
  18:46 Kill: 4 7 7: Zeh killed Assasinu Credi by MOD_ROCKET_SPLASH
@@ -1005,9 +990,9 @@ InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0
  19:22 Kill: 4 2 7: Zeh killed Oootsimo by MOD_ROCKET_SPLASH
 * O player "Zeh" matou o player " Oootsimo" usando a arma "Rocket Splash".
  19:24 ClientUserinfoChanged: 5 n\Chessus!\t\0\model\xaero/default\hmodel\xaero/default\g_redteam\\g_blueteam\\c1\7\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Chessus! entrou na partida.
+* O player Chessus! entrou na partida.
  19:27 ClientUserinfoChanged: 5 n\Chessus\t\0\model\visor/blue\hmodel\visor/blue\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Chessus! mudou o nome para Chessus.
+* O player Chessus! mudou o nome para Chessus.
  19:35 Kill: 7 6 6: Assasinu Credi killed Mal by MOD_ROCKET
 * O player "Assasinu Credi" matou o player " Mal" usando a arma "Rocket".
  19:36 Kill: 7 7 7: Assasinu Credi killed Assasinu Credi by MOD_ROCKET_SPLASH
@@ -1081,37 +1066,37 @@ InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0
   0:00 InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0\bot_minplayers\0\sv_allowDownload\0\sv_maxclients\16\sv_privateClients\2\g_gametype\0\sv_hostname\Code Miner Server\sv_minRate\0\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\version\ioq3 1.36 linux-x86_64 Apr 12 2009\protocol\68\mapname\Q3TOURNEY6_CTF\gamename\baseq3\g_needpass\0
 * Inicia a partida.
   0:00 ClientUserinfoChanged: 2 n\Oootsimo\t\0\model\razor/id\hmodel\razor/id\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Oootsimo entrou na partida.
+* O player Oootsimo entrou na partida.
   0:00 ClientUserinfoChanged: 3 n\Dono da Bola\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
-* O jogador Dono da Bola entrou na partida.
+* O player Dono da Bola entrou na partida.
   0:00 ClientUserinfoChanged: 4 n\Zeh\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Zeh entrou na partida.
+* O player Zeh entrou na partida.
   0:00 ClientUserinfoChanged: 5 n\Chessus\t\0\model\visor/blue\hmodel\visor/blue\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Chessus entrou na partida.
+* O player Chessus entrou na partida.
   0:00 ClientUserinfoChanged: 6 n\Mal\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Mal entrou na partida.
+* O player Mal entrou na partida.
   0:00 ClientUserinfoChanged: 7 n\Assasinu Credi\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Assasinu Credi entrou na partida.
+* O player Assasinu Credi entrou na partida.
   0:03 ClientUserinfoChanged: 2 n\Oootsimo\t\0\model\razor/id\hmodel\razor/id\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Oootsimo mudou o nome para Oootsimo.
+* O player Oootsimo mudou o nome para Oootsimo.
   0:03 ClientUserinfoChanged: 6 n\Mal\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Mal mudou o nome para Mal.
+* O player Mal mudou o nome para Mal.
   0:03 Kill: 6 2 18: Mal killed Oootsimo by MOD_TELEFRAG
 * O player "Mal" matou o player " Oootsimo" usando a arma "Telefrag".
   0:04 ClientUserinfoChanged: 7 n\Assasinu Credi\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Assasinu Credi mudou o nome para Assasinu Credi.
+* O player Assasinu Credi mudou o nome para Assasinu Credi.
   0:04 Kill: 7 6 18: Assasinu Credi killed Mal by MOD_TELEFRAG
 * O player "Assasinu Credi" matou o player " Mal" usando a arma "Telefrag".
   0:04 ClientUserinfoChanged: 3 n\Dono da Bola\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
-* O jogador Dono da Bola mudou o nome para Dono da Bola.
+* O player Dono da Bola mudou o nome para Dono da Bola.
   0:04 Kill: 3 7 18: Dono da Bola killed Assasinu Credi by MOD_TELEFRAG
 * O player "Dono da Bola" matou o player " Assasinu Credi" usando a arma "Telefrag".
   0:04 ClientUserinfoChanged: 5 n\Chessus\t\0\model\visor/blue\hmodel\visor/blue\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Chessus mudou o nome para Chessus.
+* O player Chessus mudou o nome para Chessus.
   0:04 Kill: 5 3 18: Chessus killed Dono da Bola by MOD_TELEFRAG
 * O player "Chessus" matou o player " Dono da Bola" usando a arma "Telefrag".
   0:04 ClientUserinfoChanged: 4 n\Zeh\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Zeh mudou o nome para Zeh.
+* O player Zeh mudou o nome para Zeh.
   0:04 Kill: 4 5 18: Zeh killed Chessus by MOD_TELEFRAG
 * O player "Zeh" matou o player " Chessus" usando a arma "Telefrag".
   0:06 Kill: 5 4 18: Chessus killed Zeh by MOD_TELEFRAG
@@ -1125,13 +1110,13 @@ InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0
   0:12 Kill: 3 5 18: Dono da Bola killed Chessus by MOD_TELEFRAG
 * O player "Dono da Bola" matou o player " Chessus" usando a arma "Telefrag".
   0:13 ClientUserinfoChanged: 8 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido entrou na partida.
+* O player Isgalamido entrou na partida.
   0:13 Kill: 1022 6 22: <world> killed Mal by MOD_TRIGGER_HURT
 * O player " Mal" morreu por que estava ferido e caiu de uma altura que o matou.
   0:15 Kill: 6 5 18: Mal killed Chessus by MOD_TELEFRAG
 * O player "Mal" matou o player " Chessus" usando a arma "Telefrag".
   0:15 ClientUserinfoChanged: 8 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido mudou o nome para Isgalamido.
+* O player Isgalamido mudou o nome para Isgalamido.
   0:15 Kill: 8 6 18: Isgalamido killed Mal by MOD_TELEFRAG
 * O player "Isgalamido" matou o player " Mal" usando a arma "Telefrag".
   0:15 Kill: 2 8 18: Oootsimo killed Isgalamido by MOD_TELEFRAG
@@ -1233,51 +1218,51 @@ InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0
   0:00 InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0\bot_minplayers\0\sv_allowDownload\0\sv_maxclients\16\sv_privateClients\2\g_gametype\4\sv_hostname\Code Miner Server\sv_minRate\0\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\version\ioq3 1.36 linux-x86_64 Apr 12 2009\protocol\68\mapname\Q3TOURNEY6_CTF\gamename\baseq3\g_needpass\0
 * Inicia a partida.
   0:00 ClientUserinfoChanged: 3 n\Dono da Bola\t\3\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
-* O jogador Dono da Bola entrou na partida.
+* O player Dono da Bola entrou na partida.
   0:04 ClientUserinfoChanged: 3 n\Dono da Bola\t\3\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
-* O jogador Dono da Bola mudou o nome para Dono da Bola.
+* O player Dono da Bola mudou o nome para Dono da Bola.
   0:06 ClientUserinfoChanged: 3 n\Dono da Bola\t\1\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\1 
-* O jogador Dono da Bola mudou o nome para Dono da Bola.
+* O player Dono da Bola mudou o nome para Dono da Bola.
   0:06 ClientUserinfoChanged: 3 n\Dono da Bola\t\1\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\1 
-* O jogador Dono da Bola mudou o nome para Dono da Bola.
+* O player Dono da Bola mudou o nome para Dono da Bola.
   0:17 Kill: 1022 3 22: <world> killed Dono da Bola by MOD_TRIGGER_HURT
 * O player " Dono da Bola" morreu por que estava ferido e caiu de uma altura que o matou.
   0:26 ClientUserinfoChanged: 2 n\Isgalamido\t\3\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido entrou na partida.
+* O player Isgalamido entrou na partida.
   0:28 ClientUserinfoChanged: 2 n\Isgalamido\t\3\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido mudou o nome para Isgalamido.
+* O player Isgalamido mudou o nome para Isgalamido.
   0:30 ClientUserinfoChanged: 2 n\Isgalamido\t\1\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido mudou o nome para Isgalamido.
+* O player Isgalamido mudou o nome para Isgalamido.
   0:55 Kill: 1022 3 22: <world> killed Dono da Bola by MOD_TRIGGER_HURT
 * O player " Dono da Bola" morreu por que estava ferido e caiu de uma altura que o matou.
   1:00 ClientUserinfoChanged: 4 n\Zeh\t\3\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Zeh entrou na partida.
+* O player Zeh entrou na partida.
   1:02 ClientUserinfoChanged: 5 n\Oootsimo\t\3\model\razor/id\hmodel\razor/id\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Oootsimo entrou na partida.
+* O player Oootsimo entrou na partida.
   1:02 ClientUserinfoChanged: 4 n\Zeh\t\3\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Zeh mudou o nome para Zeh.
+* O player Zeh mudou o nome para Zeh.
   1:03 ClientUserinfoChanged: 5 n\Oootsimo\t\3\model\razor/id\hmodel\razor/id\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Oootsimo mudou o nome para Oootsimo.
+* O player Oootsimo mudou o nome para Oootsimo.
   1:05 ClientUserinfoChanged: 6 n\Chessus\t\3\model\visor/blue\hmodel\visor/blue\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Chessus entrou na partida.
+* O player Chessus entrou na partida.
   1:06 ClientUserinfoChanged: 6 n\Chessus\t\3\model\visor/blue\hmodel\visor/blue\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Chessus mudou o nome para Chessus.
+* O player Chessus mudou o nome para Chessus.
   1:07 ClientUserinfoChanged: 4 n\Zeh\t\2\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\1 
-* O jogador Zeh mudou o nome para Zeh.
+* O player Zeh mudou o nome para Zeh.
   1:07 ClientUserinfoChanged: 4 n\Zeh\t\2\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\1 
-* O jogador Zeh mudou o nome para Zeh.
+* O player Zeh mudou o nome para Zeh.
   1:09 ClientUserinfoChanged: 6 n\Chessus\t\2\model\visor/blue\hmodel\visor/blue\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Chessus mudou o nome para Chessus.
+* O player Chessus mudou o nome para Chessus.
   1:09 ClientUserinfoChanged: 7 n\Assasinu Credi\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
-* O jogador Assasinu Credi entrou na partida.
+* O player Assasinu Credi entrou na partida.
   1:09 ClientUserinfoChanged: 5 n\Oootsimo\t\2\model\razor/id\hmodel\razor/id\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Oootsimo mudou o nome para Oootsimo.
+* O player Oootsimo mudou o nome para Oootsimo.
   1:09 Kill: 1022 2 22: <world> killed Isgalamido by MOD_TRIGGER_HURT
 * O player " Isgalamido" morreu por que estava ferido e caiu de uma altura que o matou.
   1:11 ClientUserinfoChanged: 7 n\Assasinu Credi\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Assasinu Credi mudou o nome para Assasinu Credi.
+* O player Assasinu Credi mudou o nome para Assasinu Credi.
   1:14 ClientUserinfoChanged: 7 n\Assasinu Credi\t\1\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Assasinu Credi mudou o nome para Assasinu Credi.
+* O player Assasinu Credi mudou o nome para Assasinu Credi.
   1:20 Kill: 1022 3 17: <world> killed Dono da Bola by MOD_CRUSH
 * O player " Dono da Bola" morreu esmagado.
   1:22 Kill: 1022 2 22: <world> killed Isgalamido by MOD_TRIGGER_HURT
@@ -1299,13 +1284,13 @@ InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0
   1:48 Kill: 1022 7 22: <world> killed Assasinu Credi by MOD_TRIGGER_HURT
 * O player " Assasinu Credi" morreu por que estava ferido e caiu de uma altura que o matou.
   1:55 ClientUserinfoChanged: 8 n\UnnamedPlayer\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador UnnamedPlayer entrou na partida.
+* O player UnnamedPlayer entrou na partida.
   1:57 Kill: 2 2 13: Isgalamido killed Isgalamido by MOD_BFG_SPLASH
 * O player "Isgalamido" matou o player " Isgalamido" usando a arma "Bfg Splash".
   1:58 ClientUserinfoChanged: 8 n\Mal\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador UnnamedPlayer mudou o nome para Mal.
+* O player UnnamedPlayer mudou o nome para Mal.
   2:06 ClientUserinfoChanged: 8 n\Mal\t\2\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Mal mudou o nome para Mal.
+* O player Mal mudou o nome para Mal.
   2:07 Kill: 2 4 10: Isgalamido killed Zeh by MOD_RAILGUN
 * O player "Isgalamido" matou o player " Zeh" usando a arma "Railgun".
   2:11 Kill: 2 6 10: Isgalamido killed Chessus by MOD_RAILGUN
@@ -1323,19 +1308,19 @@ InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0
   2:33 InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0\bot_minplayers\0\sv_allowDownload\0\sv_maxclients\16\sv_privateClients\2\g_gametype\4\sv_hostname\Code Miner Server\sv_minRate\0\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\version\ioq3 1.36 linux-x86_64 Apr 12 2009\protocol\68\mapname\Q3TOURNEY6_CTF\gamename\baseq3\g_needpass\0
 * Inicia a partida.
   2:33 ClientUserinfoChanged: 2 n\Isgalamido\t\1\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido entrou na partida.
+* O player Isgalamido entrou na partida.
   2:33 ClientUserinfoChanged: 3 n\Dono da Bola\t\1\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\1 
-* O jogador Dono da Bola entrou na partida.
+* O player Dono da Bola entrou na partida.
   2:33 ClientUserinfoChanged: 4 n\Zeh\t\2\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\1 
-* O jogador Zeh entrou na partida.
+* O player Zeh entrou na partida.
   2:33 ClientUserinfoChanged: 5 n\Oootsimo\t\2\model\razor/id\hmodel\razor/id\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Oootsimo entrou na partida.
+* O player Oootsimo entrou na partida.
   2:33 ClientUserinfoChanged: 6 n\Chessus\t\2\model\visor/blue\hmodel\visor/blue\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Chessus entrou na partida.
+* O player Chessus entrou na partida.
   2:33 ClientUserinfoChanged: 7 n\Assasinu Credi\t\1\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Assasinu Credi entrou na partida.
+* O player Assasinu Credi entrou na partida.
   2:33 ClientUserinfoChanged: 8 n\Mal\t\2\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Mal entrou na partida.
+* O player Mal entrou na partida.
   2:36 Kill: 1022 3 22: <world> killed Dono da Bola by MOD_TRIGGER_HURT
 * O player " Dono da Bola" morreu por que estava ferido e caiu de uma altura que o matou.
   2:39 Kill: 7 6 10: Assasinu Credi killed Chessus by MOD_RAILGUN
@@ -1661,19 +1646,19 @@ InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0
  10:28 InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0\bot_minplayers\0\sv_allowDownload\0\sv_maxclients\16\sv_privateClients\2\g_gametype\4\sv_hostname\Code Miner Server\sv_minRate\0\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\version\ioq3 1.36 linux-x86_64 Apr 12 2009\protocol\68\mapname\Q3TOURNEY6_CTF\gamename\baseq3\g_needpass\0
 * Inicia a partida.
  10:28 ClientUserinfoChanged: 2 n\Isgalamido\t\1\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido entrou na partida.
+* O player Isgalamido entrou na partida.
  10:28 ClientUserinfoChanged: 3 n\Dono da Bola\t\1\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\1 
-* O jogador Dono da Bola entrou na partida.
+* O player Dono da Bola entrou na partida.
  10:28 ClientUserinfoChanged: 4 n\Zeh\t\2\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\1 
-* O jogador Zeh entrou na partida.
+* O player Zeh entrou na partida.
  10:28 ClientUserinfoChanged: 5 n\Oootsimo\t\2\model\razor/id\hmodel\razor/id\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Oootsimo entrou na partida.
+* O player Oootsimo entrou na partida.
  10:28 ClientUserinfoChanged: 6 n\Chessus\t\2\model\visor/blue\hmodel\visor/blue\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Chessus entrou na partida.
+* O player Chessus entrou na partida.
  10:28 ClientUserinfoChanged: 7 n\Assasinu Credi\t\1\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Assasinu Credi entrou na partida.
+* O player Assasinu Credi entrou na partida.
  10:28 ClientUserinfoChanged: 8 n\Mal\t\2\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Mal entrou na partida.
+* O player Mal entrou na partida.
  10:37 Kill: 1022 2 22: <world> killed Isgalamido by MOD_TRIGGER_HURT
 * O player " Isgalamido" morreu por que estava ferido e caiu de uma altura que o matou.
  10:38 Kill: 5 7 6: Oootsimo killed Assasinu Credi by MOD_ROCKET
@@ -1691,19 +1676,19 @@ InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0
  11:03 InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0\bot_minplayers\0\sv_allowDownload\0\sv_maxclients\16\sv_privateClients\2\g_gametype\4\sv_hostname\Code Miner Server\sv_minRate\0\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\version\ioq3 1.36 linux-x86_64 Apr 12 2009\protocol\68\mapname\Q3TOURNEY6_CTF\gamename\baseq3\g_needpass\0
 * Inicia a partida.
  11:04 ClientUserinfoChanged: 2 n\Isgalamido\t\1\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido entrou na partida.
+* O player Isgalamido entrou na partida.
  11:04 ClientUserinfoChanged: 3 n\Dono da Bola\t\1\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\1 
-* O jogador Dono da Bola entrou na partida.
+* O player Dono da Bola entrou na partida.
  11:04 ClientUserinfoChanged: 4 n\Zeh\t\2\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\1 
-* O jogador Zeh entrou na partida.
+* O player Zeh entrou na partida.
  11:04 ClientUserinfoChanged: 5 n\Oootsimo\t\2\model\razor/id\hmodel\razor/id\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Oootsimo entrou na partida.
+* O player Oootsimo entrou na partida.
  11:04 ClientUserinfoChanged: 6 n\Chessus\t\2\model\visor/blue\hmodel\visor/blue\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Chessus entrou na partida.
+* O player Chessus entrou na partida.
  11:04 ClientUserinfoChanged: 7 n\Assasinu Credi\t\1\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Assasinu Credi entrou na partida.
+* O player Assasinu Credi entrou na partida.
  11:04 ClientUserinfoChanged: 8 n\Mal\t\2\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Mal entrou na partida.
+* O player Mal entrou na partida.
  11:12 Kill: 2 4 10: Isgalamido killed Zeh by MOD_RAILGUN
 * O player "Isgalamido" matou o player " Zeh" usando a arma "Railgun".
  11:16 Kill: 6 3 10: Chessus killed Dono da Bola by MOD_RAILGUN
@@ -1953,9 +1938,9 @@ InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0
  16:53 InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0\bot_minplayers\0\sv_allowDownload\0\sv_maxclients\16\sv_privateClients\2\g_gametype\4\sv_hostname\Code Miner Server\sv_minRate\0\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\version\ioq3 1.36 linux-x86_64 Apr 12 2009\protocol\68\mapname\Q3TOURNEY6_CTF\gamename\baseq3\g_needpass\0
 * Inicia a partida.
  16:53 ClientUserinfoChanged: 4 n\Zeh\t\2\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\1 
-* O jogador Zeh entrou na partida.
+* O player Zeh entrou na partida.
  16:53 ClientUserinfoChanged: 7 n\Assasinu Credi\t\1\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Assasinu Credi entrou na partida.
+* O player Assasinu Credi entrou na partida.
  17:16 Kill: 1022 4 22: <world> killed Zeh by MOD_TRIGGER_HURT
 * O player " Zeh" morreu por que estava ferido e caiu de uma altura que o matou.
  17:28 Kill: 1022 4 22: <world> killed Zeh by MOD_TRIGGER_HURT
@@ -1963,85 +1948,85 @@ InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0
  17:48 Kill: 1022 4 22: <world> killed Zeh by MOD_TRIGGER_HURT
 * O player " Zeh" morreu por que estava ferido e caiu de uma altura que o matou.
 981:06 ClientUserinfoChanged: 2 n\Dono da Bola\t\3\model\sarge/krusade\hmodel\sarge/krusade\g_redteam\\g_blueteam\\c1\5\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
-* O jogador Dono da Bola entrou na partida.
+* O player Dono da Bola entrou na partida.
 981:08 ClientUserinfoChanged: 2 n\Dono da Bola\t\3\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
-* O jogador Dono da Bola mudou o nome para Dono da Bola.
+* O player Dono da Bola mudou o nome para Dono da Bola.
 981:11 ClientUserinfoChanged: 3 n\Fasano Again\t\3\model\razor/id\hmodel\razor/id\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Fasano Again entrou na partida.
+* O player Fasano Again entrou na partida.
 981:13 ClientUserinfoChanged: 4 n\Isgalamido\t\3\model\xian/default\hmodel\xian/default\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido entrou na partida.
+* O player Isgalamido entrou na partida.
 981:14 ClientUserinfoChanged: 3 n\Oootsimo\t\3\model\razor/id\hmodel\razor/id\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Fasano Again mudou o nome para Oootsimo.
+* O player Fasano Again mudou o nome para Oootsimo.
 981:17 ClientUserinfoChanged: 4 n\Isgalamido\t\3\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido mudou o nome para Isgalamido.
+* O player Isgalamido mudou o nome para Isgalamido.
 981:19 ClientUserinfoChanged: 5 n\Assasinu Credi\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
-* O jogador Assasinu Credi entrou na partida.
+* O player Assasinu Credi entrou na partida.
 981:22 ClientUserinfoChanged: 5 n\Assasinu Credi\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Assasinu Credi entrou na partida.
+* O player Assasinu Credi mudou o nome para Assasinu Credi.
 981:27 ShutdownGame:
 * Termina a partida.
 981:27 InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0\bot_minplayers\0\sv_allowDownload\0\sv_maxclients\16\sv_privateClients\2\g_gametype\4\sv_hostname\Code Miner Server\sv_minRate\0\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\version\ioq3 1.36 linux-x86_64 Apr 12 2009\protocol\68\mapname\Q3TOURNEY6_CTF\gamename\baseq3\g_needpass\0
 * Inicia a partida.
 981:27 ClientUserinfoChanged: 2 n\Dono da Bola\t\3\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
-* O jogador Dono da Bola entrou na partida.
+* O player Dono da Bola entrou na partida.
 981:27 ClientUserinfoChanged: 3 n\Oootsimo\t\3\model\razor/id\hmodel\razor/id\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Oootsimo entrou na partida.
+* O player Oootsimo entrou na partida.
 981:27 ClientUserinfoChanged: 4 n\Isgalamido\t\3\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido entrou na partida.
+* O player Isgalamido entrou na partida.
 981:27 ClientUserinfoChanged: 5 n\Assasinu Credi\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Assasinu Credi entrou na partida.
+* O player Assasinu Credi entrou na partida.
 981:31 ClientUserinfoChanged: 4 n\Isgalamido\t\1\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\1 
-* O jogador Isgalamido mudou o nome para Isgalamido.
+* O player Isgalamido mudou o nome para Isgalamido.
 981:31 ClientUserinfoChanged: 4 n\Isgalamido\t\1\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\1 
-* O jogador Isgalamido mudou o nome para Isgalamido.
+* O player Isgalamido mudou o nome para Isgalamido.
 981:34 ClientUserinfoChanged: 3 n\Oootsimo\t\2\model\razor/id\hmodel\razor/id\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\1 
-* O jogador Oootsimo mudou o nome para Oootsimo.
+* O player Oootsimo mudou o nome para Oootsimo.
 981:34 ClientUserinfoChanged: 3 n\Oootsimo\t\2\model\razor/id\hmodel\razor/id\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\1 
-* O jogador Oootsimo mudou o nome para Oootsimo.
+* O player Oootsimo mudou o nome para Oootsimo.
 981:36 ClientUserinfoChanged: 6 n\Zeh\t\3\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Zeh entrou na partida.
+* O player Zeh entrou na partida.
 981:39 ClientUserinfoChanged: 6 n\Zeh\t\3\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Zeh mudou o nome para Zeh.
+* O player Zeh mudou o nome para Zeh.
 981:39 ShutdownGame:
 * Termina a partida.
   0:00 InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0\bot_minplayers\0\sv_allowDownload\0\sv_maxclients\16\sv_privateClients\2\g_gametype\4\sv_hostname\Code Miner Server\sv_minRate\0\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\version\ioq3 1.36 linux-x86_64 Apr 12 2009\protocol\68\mapname\q3dm17\gamename\baseq3\g_needpass\0
 * Inicia a partida.
   0:00 ClientUserinfoChanged: 2 n\Dono da Bola\t\3\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
-* O jogador Dono da Bola entrou na partida.
+* O player Dono da Bola entrou na partida.
   0:00 ClientUserinfoChanged: 3 n\Oootsimo\t\2\model\razor/id\hmodel\razor/id\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\1 
-* O jogador Oootsimo entrou na partida.
+* O player Oootsimo entrou na partida.
   0:00 ClientUserinfoChanged: 4 n\Isgalamido\t\1\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\1 
-* O jogador Isgalamido entrou na partida.
+* O player Isgalamido entrou na partida.
   0:00 ClientUserinfoChanged: 5 n\Assasinu Credi\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Assasinu Credi entrou na partida.
+* O player Assasinu Credi entrou na partida.
   0:00 ClientUserinfoChanged: 6 n\Zeh\t\3\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Zeh entrou na partida.
+* O player Zeh entrou na partida.
   0:03 ClientUserinfoChanged: 3 n\Oootsimo\t\2\model\razor/id\hmodel\razor/id\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\1 
-* O jogador Oootsimo mudou o nome para Oootsimo.
+* O player Oootsimo mudou o nome para Oootsimo.
   0:03 ClientUserinfoChanged: 5 n\Assasinu Credi\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Assasinu Credi mudou o nome para Assasinu Credi.
+* O player Assasinu Credi mudou o nome para Assasinu Credi.
   0:04 ClientUserinfoChanged: 4 n\Isgalamido\t\1\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\1 
-* O jogador Isgalamido mudou o nome para Isgalamido.
+* O player Isgalamido mudou o nome para Isgalamido.
   0:04 ClientUserinfoChanged: 2 n\Dono da Bola\t\3\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
-* O jogador Dono da Bola mudou o nome para Dono da Bola.
+* O player Dono da Bola mudou o nome para Dono da Bola.
   0:04 ClientUserinfoChanged: 6 n\Zeh\t\3\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Zeh mudou o nome para Zeh.
+* O player Zeh mudou o nome para Zeh.
   0:07 ClientUserinfoChanged: 2 n\Dono da Bola\t\1\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\1 
-* O jogador Dono da Bola mudou o nome para Dono da Bola.
+* O player Dono da Bola mudou o nome para Dono da Bola.
   0:07 ClientUserinfoChanged: 2 n\Dono da Bola\t\1\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\1 
-* O jogador Dono da Bola mudou o nome para Dono da Bola.
+* O player Dono da Bola mudou o nome para Dono da Bola.
   0:09 ClientUserinfoChanged: 4 n\Isgalamido\t\3\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido entrou na partida.
+* O player Isgalamido entrou na partida.
   0:11 ClientUserinfoChanged: 4 n\Isgalamido\t\3\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido entrou na partida.
+* O player Isgalamido mudou o nome para Isgalamido.
   0:11 ClientUserinfoChanged: 4 n\Isgalamido\t\3\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido entrou na partida.
+* O player Isgalamido mudou o nome para Isgalamido.
   0:13 ClientUserinfoChanged: 4 n\Isgalamido\t\1\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido entrou na partida.
+* O player Isgalamido mudou o nome para Isgalamido.
   0:14 ClientUserinfoChanged: 6 n\Zeh\t\1\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Zeh mudou o nome para Zeh.
+* O player Zeh mudou o nome para Zeh.
   0:24 ClientUserinfoChanged: 5 n\Assasinu Credi\t\2\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Assasinu Credi mudou o nome para Assasinu Credi.
+* O player Assasinu Credi mudou o nome para Assasinu Credi.
   0:27 Kill: 1022 2 19: <world> killed Dono da Bola by MOD_FALLING
 * O player " Dono da Bola" morreu por que caiu de uma altura que o matou.
   0:32 Kill: 1022 6 22: <world> killed Zeh by MOD_TRIGGER_HURT
@@ -2051,15 +2036,15 @@ InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0
   0:42 Kill: 1022 3 22: <world> killed Oootsimo by MOD_TRIGGER_HURT
 * O player " Oootsimo" morreu por que estava ferido e caiu de uma altura que o matou.
   0:47 ClientUserinfoChanged: 7 n\UnnamedPlayer\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador UnnamedPlayer entrou na partida.
+* O player UnnamedPlayer entrou na partida.
   0:50 Kill: 1022 5 19: <world> killed Assasinu Credi by MOD_FALLING
 * O player " Assasinu Credi" morreu por que caiu de uma altura que o matou.
   0:51 ClientUserinfoChanged: 7 n\Mal\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador UnnamedPlayer mudou o nome para Mal.
+* O player UnnamedPlayer mudou o nome para Mal.
   0:54 Kill: 1022 2 22: <world> killed Dono da Bola by MOD_TRIGGER_HURT
 * O player " Dono da Bola" morreu por que estava ferido e caiu de uma altura que o matou.
   1:02 ClientUserinfoChanged: 7 n\Mal\t\2\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Mal mudou o nome para Mal.
+* O player Mal mudou o nome para Mal.
   1:11 Kill: 1022 4 19: <world> killed Isgalamido by MOD_FALLING
 * O player " Isgalamido" morreu por que caiu de uma altura que o matou.
   1:25 Kill: 4 5 10: Isgalamido killed Assasinu Credi by MOD_RAILGUN
@@ -2079,43 +2064,43 @@ InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0
   0:00 InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0\bot_minplayers\0\sv_allowDownload\0\sv_maxclients\16\sv_privateClients\2\g_gametype\= 0\sv_hostname\Code Miner Server\sv_minRate\0\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\version\ioq3 1.36 linux-x86_64 Apr 12 2009\protocol\68\mapname\q3dm17\gamename\baseq3\g_needpass\0
 * Inicia a partida.
   0:00 ClientUserinfoChanged: 2 n\Dono da Bola\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
-* O jogador Dono da Bola entrou na partida.
+* O player Dono da Bola entrou na partida.
   0:00 ClientUserinfoChanged: 3 n\Oootsimo\t\0\model\razor/id\hmodel\razor/id\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Oootsimo entrou na partida.
+* O player Oootsimo entrou na partida.
   0:00 ClientUserinfoChanged: 4 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido entrou na partida.
+* O player Isgalamido entrou na partida.
   0:00 ClientUserinfoChanged: 5 n\Assasinu Credi\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Assasinu Credi entrou na partida.
+* O player Assasinu Credi entrou na partida.
   0:00 ClientUserinfoChanged: 6 n\Zeh\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Zeh entrou na partida.
+* O player Zeh entrou na partida.
   0:00 ClientUserinfoChanged: 7 n\Mal\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Mal entrou na partida.
+* O player Mal entrou na partida.
   0:03 ClientUserinfoChanged: 3 n\Oootsimo\t\0\model\razor/id\hmodel\razor/id\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Oootsimo mudou o nome para Oootsimo.
+* O player Oootsimo mudou o nome para Oootsimo.
   0:03 ClientUserinfoChanged: 7 n\Mal\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Mal mudou o nome para Mal.
+* O player Mal mudou o nome para Mal.
   0:03 ClientUserinfoChanged: 5 n\Assasinu Credi\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Assasinu Credi mudou o nome para Assasinu Credi.
+* O player Assasinu Credi mudou o nome para Assasinu Credi.
   0:04 ClientUserinfoChanged: 4 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido mudou o nome para Isgalamido.
+* O player Isgalamido mudou o nome para Isgalamido.
   0:04 ClientUserinfoChanged: 6 n\Zeh\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Zeh mudou o nome para Zeh.
+* O player Zeh mudou o nome para Zeh.
   0:04 ClientUserinfoChanged: 2 n\Dono da Bola\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
-* O jogador Dono da Bola mudou o nome para Dono da Bola.
+* O player Dono da Bola mudou o nome para Dono da Bola.
   0:10 Kill: 6 5 7: Zeh killed Assasinu Credi by MOD_ROCKET_SPLASH
 * O player "Zeh" matou o player " Assasinu Credi" usando a arma "Rocket Splash".
   0:11 ClientUserinfoChanged: 2 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido entrou na partida.
+* O player Isgalamido entrou na partida.
   0:12 ClientUserinfoChanged: 2 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido entrou na partida.
+* O player Isgalamido mudou o nome para Isgalamido.
   0:12 ClientUserinfoChanged: 2 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido entrou na partida.
+* O player Isgalamido mudou o nome para Isgalamido.
   0:12 ClientUserinfoChanged: 4 n\Dono da Bola\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
-* O jogador Dono da Bola entrou na partida.
+* O player Dono da Bola entrou na partida.
   0:14 ClientUserinfoChanged: 4 n\Dono da Bola\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
-* O jogador Dono da Bola entrou na partida.
+* O player Dono da Bola mudou o nome para Dono da Bola.
   0:14 ClientUserinfoChanged: 4 n\Dono da Bola\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
-* O jogador Dono da Bola entrou na partida.
+* O player Dono da Bola mudou o nome para Dono da Bola.
   0:16 Kill: 6 2 7: Zeh killed Isgalamido by MOD_ROCKET_SPLASH
 * O player "Zeh" matou o player " Isgalamido" usando a arma "Rocket Splash".
   0:16 Kill: 2 7 6: Isgalamido killed Mal by MOD_ROCKET
@@ -2133,17 +2118,17 @@ InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0
   0:35 InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0\bot_minplayers\0\sv_allowDownload\0\sv_maxclients\16\sv_privateClients\2\g_gametype\= 0\sv_hostname\Code Miner Server\sv_minRate\0\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\version\ioq3 1.36 linux-x86_64 Apr 12 2009\protocol\68\mapname\q3dm17\gamename\baseq3\g_needpass\0
 * Inicia a partida.
   0:35 ClientUserinfoChanged: 2 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido entrou na partida.
+* O player Isgalamido entrou na partida.
   0:35 ClientUserinfoChanged: 3 n\Oootsimo\t\0\model\razor/id\hmodel\razor/id\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Oootsimo entrou na partida.
+* O player Oootsimo entrou na partida.
   0:35 ClientUserinfoChanged: 4 n\Dono da Bola\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
-* O jogador Dono da Bola entrou na partida.
+* O player Dono da Bola entrou na partida.
   0:35 ClientUserinfoChanged: 5 n\Assasinu Credi\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Assasinu Credi entrou na partida.
+* O player Assasinu Credi entrou na partida.
   0:35 ClientUserinfoChanged: 6 n\Zeh\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Zeh entrou na partida.
+* O player Zeh entrou na partida.
   0:35 ClientUserinfoChanged: 7 n\Mal\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Mal entrou na partida.
+* O player Mal entrou na partida.
   0:52 Kill: 1022 7 22: <world> killed Mal by MOD_TRIGGER_HURT
 * O player " Mal" morreu por que estava ferido e caiu de uma altura que o matou.
   0:54 Kill: 6 4 6: Zeh killed Dono da Bola by MOD_ROCKET
@@ -2339,17 +2324,17 @@ InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0
   6:10 InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0\bot_minplayers\0\sv_allowDownload\0\sv_maxclients\16\sv_privateClients\2\g_gametype\= 0\sv_hostname\Code Miner Server\sv_minRate\0\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\version\ioq3 1.36 linux-x86_64 Apr 12 2009\protocol\68\mapname\q3dm17\gamename\baseq3\g_needpass\0
 * Inicia a partida.
   6:10 ClientUserinfoChanged: 2 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido entrou na partida.
+* O player Isgalamido entrou na partida.
   6:10 ClientUserinfoChanged: 3 n\Oootsimo\t\0\model\razor/id\hmodel\razor/id\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Oootsimo entrou na partida.
+* O player Oootsimo entrou na partida.
   6:10 ClientUserinfoChanged: 4 n\Dono da Bola\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
-* O jogador Dono da Bola entrou na partida.
+* O player Dono da Bola entrou na partida.
   6:10 ClientUserinfoChanged: 5 n\Assasinu Credi\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Assasinu Credi entrou na partida.
+* O player Assasinu Credi entrou na partida.
   6:10 ClientUserinfoChanged: 6 n\Zeh\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Zeh entrou na partida.
+* O player Zeh entrou na partida.
   6:10 ClientUserinfoChanged: 7 n\Mal\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Mal entrou na partida.
+* O player Mal entrou na partida.
   6:17 Kill: 4 6 7: Dono da Bola killed Zeh by MOD_ROCKET_SPLASH
 * O player "Dono da Bola" matou o player " Zeh" usando a arma "Rocket Splash".
   6:22 Kill: 4 4 7: Dono da Bola killed Dono da Bola by MOD_ROCKET_SPLASH
@@ -2361,17 +2346,17 @@ InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0
   6:34 InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0\bot_minplayers\0\sv_allowDownload\0\sv_maxclients\16\sv_privateClients\2\g_gametype\= 0\sv_hostname\Code Miner Server\sv_minRate\0\sv_maxRate\10000\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\version\ioq3 1.36 linux-x86_64 Apr 12 2009\protocol\68\mapname\q3dm17\gamename\baseq3\g_needpass\0
 * Inicia a partida.
   6:34 ClientUserinfoChanged: 2 n\Isgalamido\t\0\model\uriel/zael\hmodel\uriel/zael\g_redteam\\g_blueteam\\c1\5\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Isgalamido entrou na partida.
+* O player Isgalamido entrou na partida.
   6:34 ClientUserinfoChanged: 3 n\Oootsimo\t\0\model\razor/id\hmodel\razor/id\g_redteam\\g_blueteam\\c1\3\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Oootsimo entrou na partida.
+* O player Oootsimo entrou na partida.
   6:34 ClientUserinfoChanged: 4 n\Dono da Bola\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\95\w\0\l\0\tt\0\tl\0 
-* O jogador Dono da Bola entrou na partida.
+* O player Dono da Bola entrou na partida.
   6:34 ClientUserinfoChanged: 5 n\Assasinu Credi\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Assasinu Credi entrou na partida.
+* O player Assasinu Credi entrou na partida.
   6:34 ClientUserinfoChanged: 6 n\Zeh\t\0\model\sarge/default\hmodel\sarge/default\g_redteam\\g_blueteam\\c1\1\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Zeh entrou na partida.
+* O player Zeh entrou na partida.
   6:34 ClientUserinfoChanged: 7 n\Mal\t\0\model\sarge\hmodel\sarge\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0 
-* O jogador Mal entrou na partida.
+* O player Mal entrou na partida.
   6:43 Kill: 4 2 6: Dono da Bola killed Isgalamido by MOD_ROCKET
 * O player "Dono da Bola" matou o player " Isgalamido" usando a arma "Rocket".
   6:45 Kill: 1022 4 22: <world> killed Dono da Bola by MOD_TRIGGER_HURT
@@ -2635,5 +2620,4 @@ InitGame: \capturelimit\8\g_maxGameClients\0\timelimit\15\fraglimit\20\dmflags\0
  13:55 Kill: 3 4 6: Oootsimo killed Dono da Bola by MOD_ROCKET
 * O player "Oootsimo" matou o player " Dono da Bola" usando a arma "Rocket".
  14:11 ShutdownGame:
->>>>>>> 346b8d563b7a15ee1e7d83a496a56a213e5a7726
 * Termina a partida.

@@ -14,7 +14,7 @@ int gameId = 0;
 StringBuilder gameData = new StringBuilder();
 
 //Método que ler e armazena os dados de login dos jogadores e das kills contidos no log. Sempre que chega ao final dos dados de uma partida (ShutdownGame) ele realiza uma análise, dentro da condição ELSE, dos dados armazenados.
-foreach (string line in System.IO.File.ReadLines("./Files/Inputs/QuakeTest.txt"))
+foreach (string line in System.IO.File.ReadLines("./Files/Inputs/Quake.txt"))
 {
     if (!line.Contains("ShutdownGame:"))
     {
